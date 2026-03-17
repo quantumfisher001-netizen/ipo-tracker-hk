@@ -24,19 +24,19 @@ def _hk_now() -> datetime:
 def generate_daily_report(
     market_overview: dict,
     company_updates: list,
-    new_listings: list,
     listed_performance: list,
     date_str: str = None,
+    new_listings: list = None,  # 保留参数但不再使用，避免旧调用报错
 ) -> str:
     """
     生成每日IPO报告（Markdown格式）
 
     Args:
-        market_overview: 市场概览数据
-        company_updates: 各公司进展更新列表
-        new_listings: 新递表项目列表
+        market_overview: 市场概览数据，格式为 {"market": {...}, "new_filings_analysis": {...}}
+        company_updates: 各公司进展更新列表（只包含 has_update=True 的公司）
         listed_performance: 已上市股票表现
         date_str: 报告日期字符串，默认使用今天香港时间
+        new_listings: 已废弃参数，保留以兼容旧调用
 
     Returns:
         Markdown 格式报告字符串
@@ -54,59 +54,41 @@ def generate_daily_report(
 
     # ─── 市场概览 ─────────────────────────────────────────────────────────────
     sections.append("## 📊 市场概览\n")
-    if market_overview.get("success") and market_overview.get("content"):
-        sections.append(market_overview["content"])
-        if market_overview.get("citations"):
+    market_data = market_overview.get("market", {})
+    if market_data.get("success") and market_data.get("content"):
+        sections.append(market_data["content"])
+        if market_data.get("citations"):
             sections.append("\n**参考来源：**")
-            for url in market_overview["citations"][:5]:
+            for url in market_data["citations"][:5]:
                 sections.append(f"- {url}")
     else:
-        err = market_overview.get("error", "未知错误")
+        err = market_data.get("error", "未知错误")
         sections.append(f"> ⚠️ 市场概览数据获取失败：{err}")
     sections.append("")
 
-    # ─── 重要进展 ─────────────────────────────────────────────────────────────
-    important = [u for u in company_updates if u.get("has_update")]
-    sections.append("## 🔥 重要进展\n")
-    if important:
-        for update in important:
-            sections.append(f"### {update['company']}（{update['sector']}）")
+    # ─── 今日新递表公司分析 ───────────────────────────────────────────────────
+    sections.append("## 🆕 今日新递表公司分析\n")
+    filings_data = market_overview.get("new_filings_analysis", {})
+    if filings_data.get("success") and filings_data.get("content"):
+        sections.append(filings_data["content"])
+        if filings_data.get("citations"):
+            sections.append("\n**参考来源：**")
+            for url in filings_data["citations"][:5]:
+                sections.append(f"- {url}")
+    else:
+        err = filings_data.get("error", "未知错误")
+        sections.append(f"> ⚠️ 新递表公司分析数据获取失败：{err}")
+    sections.append("")
+
+    # ─── 监控清单重要进展 ─────────────────────────────────────────────────────
+    sections.append("## 🔥 监控清单重要进展\n")
+    if company_updates:
+        for update in company_updates:
+            sections.append(f"### 🆕 {update['company']}（{update['sector']}）")
             sections.append(update.get("content", "无详细信息"))
             sections.append("")
     else:
-        sections.append("> 暂无重大进展\n")
-
-    # ─── 项目状态更新 ─────────────────────────────────────────────────────────
-    sections.append("## 📋 项目状态更新\n")
-    if company_updates:
-        for update in company_updates:
-            status_icon = "🆕" if update.get("has_update") else "➖"
-            category_label = update.get("category_name", "")
-            sections.append(
-                f"### {status_icon} {update['company']}（{update['sector']}）"
-            )
-            if category_label:
-                sections.append(f"**分类：** {category_label}")
-            sections.append(f"**当前状态：** {update.get('status', '未知')}")
-            if update.get("success") and update.get("content"):
-                sections.append(f"\n{update['content']}")
-            elif update.get("error"):
-                sections.append(f"\n> ⚠️ 数据获取失败：{update['error']}")
-            sections.append("")
-    else:
-        sections.append("> 暂无项目状态更新\n")
-
-    # ─── 新递表项目 ───────────────────────────────────────────────────────────
-    sections.append("## 🆕 新递表项目\n")
-    if new_listings and new_listings[0].get("success") and new_listings[0].get("content"):
-        sections.append(new_listings[0]["content"])
-        if new_listings[0].get("citations"):
-            sections.append("\n**参考来源：**")
-            for url in new_listings[0]["citations"][:5]:
-                sections.append(f"- {url}")
-    else:
-        sections.append("> 暂无新递表项目信息\n")
-    sections.append("")
+        sections.append("> 今日监控清单内暂无新进展\n")
 
     # ─── 已上市股票表现 ───────────────────────────────────────────────────────
     sections.append("## 📈 已上市股票表现\n")
