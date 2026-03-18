@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-18",
+  "generated_at": "2026-03-18T13:45:46.645594+08:00",
+  "market_overview": {
+    "market": {
+      "success": true,
+      "content": "### 2026年3月18日香港IPO市场最新动态\n\n截至搜索结果最新数据（主要至3月初），今日（3月18日）无具体新递表公司公告；市场整体活跃，排队企业超300家，募资规模强劲。以下按查询逐项总结：\n\n1. **今天新递表的公司**  \n   无今日具体新递表公司信息披露。[1] 港交所截至2025年底排队企业达316家，2025年末至2026年初出现递表高峰，但未列明3月18日名单。若有更新，建议查阅港交所“披露易”平台。\n\n2. **最近通过聆讯的公司**  \n   搜索结果未提供最近通过聆讯的具体公司名单。[1][2] 当前主板上场申请超530件，中国本土券商主导IPO管道，如中金公司（CICC）及中信证券管道超100件，主攻半导体、AI等领域。\n\n3. **即将招股的新股（招股日期、价格区间、上市日期）**  \n   无今日或近期具体招股细节公布。[2][3] 2026年进入后，市场活跃，3月初募资已超970亿港元（较2025同期增10倍），CICC主承销平均规模5.6亿美元；全年预计150-160家上市，超380件管道在列，但未见精确招股日程。\n\n4. **近期上市首日表现**  \n   无具体首日表现数据。[3][6] 2026年迄今已24家公司上市，募资超870亿港元（前年同期10倍以上），市场流动性支撑强劲，日均成交2730亿港元（增9%），但恒生指数年初跌1.6%、科技指数跌8.3%。\n\n5. **港交所最新IPO政策或市场趋势**  \n   - **政策**：港交所拟放宽种类股（加权投票权）上场门槛，如市值标准从400亿港元降至200亿港元，另一标准降至市值60亿港元+营收6亿港元；并向所有新申请者开放非公开申请（征求意见至5月8日）。[4]  \n   - **趋势**：2026年IPO募资预计3000-3500亿港元（普华永道/德勤预测），科技（AI/新能源/半导体）、生物科技、A+H股及新消费为主力；后备梯队超300家，国际长线资金回流。[1][2][6] 海外企业（东南亚为主）增多，主板申请达530件。[1][4]\n\n**说明**：信息基于3月初数据，今日5AM UTC后无即时更新；市场预测乐观，但依赖正反馈机制。若需精确实时数据，推荐直接访问港交所官网或披露易。",
+      "citations": [
+        "https://www.stcn.com/article/detail/3577322.html",
+        "https://jp.investing.com/news/stock-market-news/article-93CH-1454484",
+        "https://ashu-chinastock.com/news/000017-561878711900",
+        "https://finance.yahoo.co.jp/news/detail/cdf71f81bb56ebdb100f5497de948658becfe6b8",
+        "https://finance.yahoo.co.jp/news/detail/dc18bd7366697025d4a545d2f23d889e120c0517",
+        "https://japanese.cri.cn/2026/03/02/ARTI1772419333994767",
+        "https://law.asia/ja/hong-kong-ipo-2025/"
+      ],
+      "query": "请搜索今天（2026年03月18日）香港IPO市场的最新动态，包括：\n1. 今天新递表的公司（向港交所递交上市申请）\n2. 最近通过聆讯的公司\n3. 即将招股的新股（招股日期、价格区间、上市日期）\n4. 近期上市首日表现\n5. 港交所最新IPO政策或市场趋势\n请用中文回答，条理清晰。"
+    },
+    "new_filings_analysis": {
+      "success": true,
+      "content": "**今日无新递表公司。**\n\n根据港交所最新申请记录及市场报道，2026年3月18日（今日）并无公司向港交所递交新IPO申请[2][4]。最近递表集中在3月9-15日（如创想三维等8家）及3月15日（如广东华沿机器人、上海傅里叶半导体），无当日新案[2][4]。港股IPO申请总量仍超300家，但今日无更新[1][5]。",
+      "citations": [
+        "https://finance.ifeng.com/c/8q1OQ07qNAc",
+        "https://www.21jingji.com/article/20260316/herald/8b3b11ee2b99a00e1a973b39b95c50f0.html",
+        "https://k.sina.com.cn/article_7857201856_1d45362c001903bbck.html",
+        "https://www.etnet.com.hk/www/tc/stocks/ipo-calendar.php",
+        "https://www.deloitte.com/cn/zh/about/press-room/mainland-and-hk-ipo-markets-2025-review-2026-outlook.html",
+        "https://www.hkex.com.hk/News/Regulatory-Announcements/2024/241018news?sc_lang=zh-HK",
+        "https://www.hkex.com.hk/?sc_lang=zh-hk",
+        "https://www1.hkexnews.hk/app/appindex.html?lang=zh",
+        "https://wap.eastmoney.com/a/202602063644306289.html"
+      ],
+      "query": "请搜索今天（2026年03月18日）向港交所递交IPO申请的公司名单。\n对于今天新递表的每家公司，请逐一提供以下五个维度的简要分析：\n\n【公司名称】（赛道）\n📌 基本情况：主营业务、保荐人、预计集资规模\n💡 是否参与IPO认购：建议/不建议/观望，一句话理由\n📈 短期持有（首周）：预期表现判断\n🏦 长期持有：核心竞争力或主要风险\n🔗 港股通可能性：高/中/低，判断依据\n💰 现金流状况：盈利/亏损/烧钱速度简述\n\n如今天（2026年03月18日）无新递表公司，请明确说明「今日无新递表公司」。"
+    }
+  },
+  "company_updates": [],
+  "listed_performance": [
+    {
+      "company": "精锋医疗",
+      "ticker": "02675.HK",
+      "sector": "医疗器械",
+      "success": true,
+      "content": "精锋医疗（02675.HK）最新股价约**60.15港元**，较昨收微涨0.06%，成交额1229.74万港元[3]。\n\n近期公告：悉数行使超额配股权、稳定价格行动结束（2026年2月）；股份变动月报（截至1/31及2/28）；欧洲机器人远程手术及培训中心新闻（3/13）[2][3][7][8]。\n\n分析师评级：搜索结果未见明确覆盖[1][2]。（98字）",
+      "error": null,
+      "citations": [
+        "https://www.futunn.com/stock/02675-HK/news",
+        "https://www.futunn.com/stock/02675-HK/announcement",
+        "https://www.moomoo.com/hans/stock/02675-HK",
+        "https://www.etnet.com.hk/www/tc/stocks/ipo-info.php?code=2675",
+        "http://www.aastocks.com/sc/stocks/news/aafn-con/now.1494610/latest-news",
+        "http://stock.finance.sina.com.cn/hkstock/news/02675.html",
+        "https://m.hkej.com/landing/mobarticle2/id/4333036/%25E7%25B2%25BE%25E9%258B%2592%25E9%2586%25AB%25E7%2599%2582%25EF%25BC%258D%25EF%25BC%25A2%252802675%2529%2520%25E6%259C%2588%25E5%25A0%25B1%25E8%25A1%25A8",
+        "https://m.hkej.com/landing/mobarticle2/id/4314388/%25E7%25B2%25BE%25E9%258B%2592%25E9%2586%25AB%25E7%2599%2582%25EF%25BC%258D%25EF%25BC%25A2%252802675%2529%2520%25E5%2585%25B6%25E4%25BB%2596-%25E9%259B%259C%25E9%25A0%2585"
+      ]
+    },
+    {
+      "company": "天数智芯",
+      "ticker": null,
+      "sector": "AI芯片",
+      "success": true,
+      "content": "**天数智芯（09903.HK）最新股价**：289.2港元，跌0.89%（3月17日10:31北京时间数据）[3]。\n\n**近期新闻**：2月底盘中涨超7%，股价破300港元创上市新高，昨日大涨超20%；华鑫证券研报看好GPU业务，预计2025-2027收入8.76/19.26/38.52亿元[1][2][4]。\n\n**分析师评级**：华鑫证券首次覆盖“买入”[1][2][5]。（约90字）",
+      "error": null,
+      "citations": [
+        "https://m.dtm.com.cn/news/202602/200007.html",
+        "https://finance.sina.com.cn/stock/hkstock/2026-02-27/doc-inhpfhts3864002.shtml?froms=ggmp",
+        "https://www.moomoo.com/hans/stock/09903-HK/forecast",
+        "https://www.163.com/dy/article/KMP4GKP20519QIKK.html",
+        "https://www.itiger.com/hant/news/2614501225",
+        "https://cn.investing.com/news/stock-market-news/article-3141738",
+        "https://www.futunn.com/stock/09903-HK/news?chain_id=Name1K9-3FXPhg.1kllvo0",
+        "https://pdf.dfcfw.com/pdf/H3_AP202603051820304136_1.pdf?1772731559000.pdf",
+        "https://www.cls.cn/detail/2269935"
+      ]
+    },
+    {
+      "company": "海致科技",
+      "ticker": null,
+      "sector": "科技",
+      "success": true,
+      "content": "海致科技集团（02706.HK）最新收盘价**83.050港元**，涨**+1.750港元（+2.15%）**（3月17日收盘）[3]。\n\n近期新闻：Atlas智能体收入2024年暴增872.2%，2025年上半年增近5倍；对标Palantir，摩根大通看好AI商业化落地潜力[1][4][6]。\n\n分析师评级：**暂无具体数据**，富途显示无评级[2][3]。\n\n（总字数：98）",
+      "error": null,
+      "citations": [
+        "https://hk.investing.com/news/stock-market-news/article-1324902",
+        "https://www.futunn.com/stock/02706-HK/forecast",
+        "https://www.futunn.com/stock/02706-HK/forecast?chain_id=Name1K9-3FXPhg.1kqhhs1",
+        "https://cn.investing.com/news/stock-market-news/article-3222255",
+        "https://finance.sina.com.cn/stock/t/2026-01-19/doc-inhhvmxv1298800.shtml",
+        "https://www.fxbaogao.com/detail/5257726",
+        "https://www.itiger.com/hans/stock/02706",
+        "https://www.aastocks.com/tc/mobile/news.aspx?newsid=NOW.1501234&newssource=AAFN",
+        "https://www.cls.cn/detail/2281202"
+      ]
+    }
+  ]
+}
