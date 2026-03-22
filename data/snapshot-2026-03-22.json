@@ -1,0 +1,116 @@
+{
+  "date": "2026-03-22",
+  "generated_at": "2026-03-22T11:36:30.806314+08:00",
+  "market_overview": {
+    "market": {
+      "success": true,
+      "content": "根据提供的搜索结果，我无法提供您要求的2026年3月22日香港IPO市场的具体实时动态。\n\n搜索结果中最新的信息来自**3月20日**[1]，显示香港IPO市场已取得以下重要进展：\n\n## 2026年IPO市场整体表现\n\n**募资里程碑**：香港IPO募资在仅用79天内就突破1000亿港元，这是香港2018年上市改革以来的**最快速度**[1]。截至3月20日，今年已有30家新股上市（29家IPO、1家介绍上市），合计募资约1,004.72亿港元[1]。\n\n**市场活跃度**：\n- 2026年首两个月有24家新上市公司，较2025年同期的10家增长140%[3]\n- IPO集资金额为892亿港元，较2025年同期的80亿港元增长超过1000%[3]\n\n**主承销商格局**：中金公司（CICC）在主承销排名中位列首位，在全28件案件中主承销12件，市场份额达27%，主要集中在半导体、科技硬件和人工智能领域[2]。\n\n## 信息局限\n\n搜索结果**不包含**以下信息：\n- 3月22日新递表公司、通过聆讯公司、招股安排等实时数据\n- 港交所最新IPO政策调整\n\n建议您直接访问香港交易所官网或专业财经平台获取今日最新IPO日历和公司公告。",
+      "citations": [
+        "http://finance.sina.com.cn/wm/2026-03-20/doc-inhrrzut6710275.shtml",
+        "https://jp.investing.com/news/stock-market-news/article-93CH-1454484",
+        "https://www.hkex.com.hk/Market-Data/Statistics/Consolidated-Reports/HKEX-Monthly-Market-Highlights?sc_lang=zh-HK",
+        "http://www.aastocks.com/tc/stocks/market/calendar-daily.aspx",
+        "https://japanese.cri.cn/2026/03/02/ARTI1772419333994767",
+        "https://www.hketotyo.gov.hk/japan/jp/business/invest/"
+      ],
+      "query": "请搜索今天（2026年03月22日）香港IPO市场的最新动态，包括：\n1. 今天新递表的公司（向港交所递交上市申请）\n2. 最近通过聆讯的公司\n3. 即将招股的新股（招股日期、价格区间、上市日期）\n4. 近期上市首日表现\n5. 港交所最新IPO政策或市场趋势\n请用中文回答，条理清晰。"
+    },
+    "new_filings_analysis": {
+      "success": true,
+      "content": "根据提供的搜索结果，**今日（2026年3月22日）无新递表公司的相关信息**。\n\n搜索结果中最新的数据显示：\n\n- 截至2026年3月20日，港交所已有30家新股上市，港股IPO募资突破1000亿港元[2]\n- 3月19日上市的是嚓圖汽車科技股份有限公司（7489）；3月20日上市的是廣州廣合科技股份有限公司（1989）[4]\n\n目前搜索结果未包含3月21日至3月22日新递表申请的公司信息。若需了解最新的IPO递表动态，建议直接查阅港交所官方网站的上市申请公告或联系相关投行了解最新进展。\n\n**补充说明**：截至2月底，港交所排队上市企业已超过350家[1]，但具体每日新递表企业信息需通过港交所实时公告系统查询。",
+      "citations": [
+        "https://www.21jingji.com/article/20260126/herald/5c893be912fc968e7228e1f58f134cf2.html",
+        "https://finance.sina.com.cn/stock/roll/2026-03-20/doc-inhrshaq0517388.shtml?cre=tianyi&mod=pchp&loc=19&r=0&rfunc=81&tj=cxvertical_pc_hp&tr=12",
+        "https://wap.eastmoney.com/a/202603203677885012.html",
+        "https://www.hkex.com.hk/?sc_lang=zh-hk",
+        "https://www.hkex.com.hk/market-data/statistics/consolidated-reports/hkex-monthly-market-highlights?sc_lang=zh-HK",
+        "https://www.hsbc.com.hk/zh-hk/investments/products/ipo/",
+        "https://www1.hkexnews.hk/listedco/listconews/index/lci.html?lang=zh",
+        "https://www.hkex.com.hk/news/hkex-calendar?sc_lang=zh-hk"
+      ],
+      "query": "请搜索今天（2026年03月22日）向港交所递交IPO申请的公司名单。\n对于今天新递表的每家公司，请逐一提供以下五个维度的简要分析：\n\n【公司名称】（赛道）\n📌 基本情况：主营业务、保荐人、预计集资规模\n💡 是否参与IPO认购：建议/不建议/观望，一句话理由\n📈 短期持有（首周）：预期表现判断\n🏦 长期持有：核心竞争力或主要风险\n🔗 港股通可能性：高/中/低，判断依据\n💰 现金流状况：盈利/亏损/烧钱速度简述\n\n如今天（2026年03月22日）无新递表公司，请明确说明「今日无新递表公司」。"
+    }
+  },
+  "company_updates": [
+    {
+      "company": "易控智驾",
+      "sector": "自动驾驶",
+      "status": "已通过聆讯",
+      "category_name": "A类 - 已通过聆讯/接近上市",
+      "has_update": true,
+      "success": true,
+      "content": "搜索结果中关于易控智驾的最新信息截至**2025年7月**，距离当前日期（2026年3月22日）已有约9个月。在此期间，这些IPO公司的状态可能已发生重大变化，但相关数据在搜索结果中并未呈现。\n\n**建议采取以下措施获取实时信息：**\n\n1. **直接访问港交所官网** - 查询这些公司的最新上市申请状态\n2. **查阅财经媒体** - 新浪财经、格隆汇、每日经济新闻等港股IPO跟踪栏目\n3. **查询公司官方渠道** - 各公司最新的融资或上市进展公告\n\n鉴于搜索结果数据滞后，我无法按照您的要求准确报告**今日**或**最近几天**的实质性新进展。",
+      "error": null,
+      "citations": [
+        "https://finance.sina.com.cn/cj/2025-06-27/doc-infcphxa5979803.shtml",
+        "https://news.qq.com/rain/a/20250627A07FX400",
+        "https://finance.sina.com.cn/jjxw/2025-07-09/doc-infewqmq1202679.shtml",
+        "https://news.qq.com/rain/a/20250830A07B2U00",
+        "https://finance.sina.com.cn/stock/companyt/2025-07-15/doc-inffpncw2225552.shtml",
+        "https://finance.sina.com.cn/stock/bxjj/2025-07-07/doc-inferezt6465751.shtml",
+        "https://www.stcn.com/article/detail/1431673.html",
+        "https://finance.sina.com.cn/stock/stockzmt/2025-06-26/doc-infcktkk4772493.shtml",
+        "https://www.eacon.com/news/"
+      ]
+    }
+  ],
+  "listed_performance": [
+    {
+      "company": "精锋医疗",
+      "ticker": "02675.HK",
+      "sector": "医疗器械",
+      "success": true,
+      "content": "精锋医疗（02675.HK）最新股价约**60.45港元**，涨**0.75%**（AAStocks数据，近期交易）[7]。\n\n近期公告：拟于2026年3月27日召开董事会会议，审批2025全年业绩及末期股息[1]。\n\n分析师评级：搜索结果中无明确最新评级信息[3][4][5]。\n\n（公司2026年1月8日上市，首日涨超38%，募资净额11.17亿港元[2][3][7]。总字数：98）",
+      "error": null,
+      "citations": [
+        "https://finance.sina.com.cn/stock/bxjj/2026-03-17/doc-inhrhxzp8114896.shtml",
+        "https://www.stcn.com/article/detail/3563535.html",
+        "https://www.futunn.com/stock/02675-HK/news",
+        "https://www.futunn.com/stock/02675-HK/announcement",
+        "https://www.itiger.com/hans/stock/02675",
+        "https://www.etnet.com.hk/www/tc/stocks/ipo-info.php?code=2675",
+        "http://www.aastocks.com/sc/stocks/analysis/stock-aafn/02675/0/hk-stock-news/1",
+        "http://stock.finance.sina.com.cn/hkstock/news/02675.html",
+        "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2675&sc_lang=zh-HK",
+        "https://m.hkej.com/landing/mobarticle2/id/4333036/%25E7%25B2%25BE%25E9%258B%2592%25E9%2586%25AB%25E7%2599%2582%25EF%25BC%258D%25EF%25BC%25A2%252802675%2529%2520%25E6%259C%2588%25E5%25A0%25B1%25E8%25A1%25A8"
+      ]
+    },
+    {
+      "company": "天数智芯",
+      "ticker": null,
+      "sector": "AI芯片",
+      "success": true,
+      "content": "天数智芯（09903.HK）最新股价286.60港元（3月18日收盘），较前一交易日323.00港元下跌[7]。近期股价波动大，2月27日盘中一度涨超7%突破300港元新高，昨日大涨超20%[2][4]。\n\n华鑫证券最新研报看好其GPU业务，首予**“买入”**评级，预计2025-2027年收入8.76亿、19.26亿、38.52亿元[1][2][5]。1月26日发布四代架构路线图，天垓Gen 3拟2026Q1量产[6]。（128字）",
+      "error": null,
+      "citations": [
+        "https://m.dtm.com.cn/news/202602/200007.html",
+        "https://finance.sina.com.cn/stock/hkstock/2026-02-27/doc-inhpfhts3864002.shtml?froms=ggmp",
+        "https://www.futunn.com/stock/09903-HK/forecast",
+        "https://www.163.com/dy/article/KMP4GKP20519QIKK.html",
+        "https://www.itiger.com/hant/news/2614501225",
+        "https://wap.eastmoney.com/a/202601263630973761.html",
+        "https://hk.investing.com/equities/shanghai-iluvatar-corex-semicon-co",
+        "https://pdf.dfcfw.com/pdf/H3_AP202603051820304136_1.pdf?1772731559000.pdf",
+        "https://www.moomoo.com/hans/stock/09903-HK/news"
+      ]
+    },
+    {
+      "company": "海致科技",
+      "ticker": null,
+      "sector": "科技",
+      "success": true,
+      "content": "海致科技（02706.HK）最新股价82.200港元，涨+0.900港元（+1.11%），数据截至2026年3月17日[3]。\n\n近期新闻聚焦AI产业级智能体，2024年营收5.03亿元（复合增长26.8%），2025上半年增速38.4%；Atlas智能体收入暴增，被视为“AI除幻第一股”，对标Palantir，具千亿市值潜力[1][2][4][6]。\n\n分析师评级暂无数据[3][5]。",
+      "error": null,
+      "citations": [
+        "https://hk.investing.com/news/stock-market-news/article-1324902",
+        "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-02-03/doc-inhkpkrc3451171.shtml",
+        "https://www.futunn.com/stock/02706-HK/forecast?chain_id=Name1K9-3FXPhg.1kqmqk0",
+        "https://hk.investing.com/news/stock-market-news/article-1297659",
+        "https://www.futunn.com/hk/stock/02706-HK/forecast",
+        "https://www.am730.com.hk/columns/2001953",
+        "https://www.laohu8.com/news/2611172544",
+        "https://www.cls.cn/detail/2281202"
+      ]
+    }
+  ]
+}
