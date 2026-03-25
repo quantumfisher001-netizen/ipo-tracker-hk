@@ -1,0 +1,93 @@
+{
+  "date": "2026-03-25",
+  "generated_at": "2026-03-25T11:35:13.665969+08:00",
+  "market_overview": {
+    "market": {
+      "success": true,
+      "content": "根据搜索结果，我无法提供2026年3月25日当天的具体IPO市场动态，因为搜索结果中最新的数据仅更新至3月11日左右。以下是目前能够获取的最新信息：\n\n## 2026年年初至3月中旬的IPO市场概况\n\n**资金调达热度**\n\n香港IPO市场表现异常火热。截至3月初，香港IPO融资规模已超过**970亿港元**，相比2025年同期增长约**10倍**[1]。另据香港证券交易所主席唐家成在2月20日公布的数据，2026年初已有24家公司完成IPO，融资总额超过870亿港元[4]。\n\n**上市公司数量**\n\n截至2月27日，2026年初以来香港已完成IPO的企业为31家[2]。而待审批的IPO企业储备充足，足额承认待审企业达到**467家**[2]。\n\n**市场流动性与指数表现**\n\n年初至今日均平均成交额达2730亿港元，较2025年全年增长9%[1]。虽然融资活跃，但大盘承压——恒生指数年初至今下跌1.6%，恒生科技指数下跌8.3%[1]。\n\n**主要承销商格局**\n\n中信证券国际（CICC）在主承销商排名中处于首位，在28宗案件中主承销12宗，融资规模占比27%，主要集中在半导体、科技硬件和人工智能领域[1]。中国本土券商主导IPO市场，待承销案件超过380宗，其中中信（103宗）和CICC（102宗）储备最丰富[1]。\n\n## 港交所政策动向\n\n香港特区政府财政长官陈茂波在2月20日表示，对2026年股市\"谨慎乐观\"，认可IPO和融资表现良好[2]。港交所主席强调，尽管IPO社数在增加，但**审查流程不会放松**[2]。\n\n**注：** 有关今日具体的新递表公司、通过聆讯企业、招股日期安排等实时信息，建议直接访问香港证券交易所官网或联系市场参与者获取最新动态。",
+      "citations": [
+        "https://jp.investing.com/news/stock-market-news/article-93CH-1454484",
+        "https://www.jetro.go.jp/biznews/2026/03/e59f21d8e28dbb91.html",
+        "https://jp.news.cn/20260311/e003060fb63e4b37af5f8ee0c26c7455/c.html",
+        "https://ashu-chinastock.com/news/000017-561878711900",
+        "https://japanese.cri.cn/2026/03/02/ARTI1772419333994767",
+        "https://law.asia/ja/hong-kong-ipo-2025/"
+      ],
+      "query": "请搜索今天（2026年03月25日）香港IPO市场的最新动态，包括：\n1. 今天新递表的公司（向港交所递交上市申请）\n2. 最近通过聆讯的公司\n3. 即将招股的新股（招股日期、价格区间、上市日期）\n4. 近期上市首日表现\n5. 港交所最新IPO政策或市场趋势\n请用中文回答，条理清晰。"
+    },
+    "new_filings_analysis": {
+      "success": true,
+      "content": "根据搜索结果，**今日（2026年3月25日）无新递表公司**。\n\n根据港交所的相关资料，截至目前无企业在3月25日当天向港交所递交IPO招股书。[1][2]\n\n不过，值得关注的是，目前仍有**多家公司正在进行招股期**，截止日期恰好为今日：\n\n**华沿机器人(1021.HK)**\n- 招股期：2026年3月20日至3月25日（今日截止）\n- 预计上市日期：2026年3月30日\n- 已引入高瓴等9家基石投资者[2]\n\n**德适-B(2526.HK)**\n- 招股期：2026年3月20日至3月25日（今日截止）\n- 预计上市日期：2026年3月30日\n- 专注医学影像产品及服务的医疗器械公司[2]\n\n**瀚天天成(2726.HK)**\n- 招股期：2026年3月20日至3月25日（今日截止）\n- 预计上市日期：2026年3月30日[2]\n\n此外，港交所2026年IPO市场整体表现强劲，截至3月24日，上市新股已突破30家，IPO融资额突破1000亿港元，同比增长均超过150%。[3]",
+      "citations": [
+        "https://www.stcn.com/article/detail/3377540.html",
+        "https://www.finet.hk/newscenter/news_content/69c0883d230829c946147c03",
+        "https://k.sina.com.cn/article_7857201856_1d45362c001903kndo.html",
+        "https://www.nfnews.com/content/0oxwvDzB6L.html",
+        "https://www.jetro.go.jp/biznews/2026/03/e59f21d8e28dbb91.html",
+        "https://www.hkex.com.hk/?sc_lang=zh-hk",
+        "https://www.hkex.com.hk/News/HKEX-Calendar?sc_lang=zh-HK",
+        "https://search.sbisec.co.jp/v2/popwin/info/connect/ipo/202511212102.pdf",
+        "https://www.hkex.com.hk/news/news-centre?sc_lang=zh-hk"
+      ],
+      "query": "请搜索今天（2026年03月25日）向港交所递交IPO申请的公司名单。\n对于今天新递表的每家公司，请逐一提供以下五个维度的简要分析：\n\n【公司名称】（赛道）\n📌 基本情况：主营业务、保荐人、预计集资规模\n💡 是否参与IPO认购：建议/不建议/观望，一句话理由\n📈 短期持有（首周）：预期表现判断\n🏦 长期持有：核心竞争力或主要风险\n🔗 港股通可能性：高/中/低，判断依据\n💰 现金流状况：盈利/亏损/烧钱速度简述\n\n如今天（2026年03月25日）无新递表公司，请明确说明「今日无新递表公司」。"
+    }
+  },
+  "company_updates": [],
+  "listed_performance": [
+    {
+      "company": "精锋医疗",
+      "ticker": "02675.HK",
+      "sector": "医疗器械",
+      "success": true,
+      "content": "根据搜索结果，精锋医疗-B（02675.HK）的最新情况如下：\n\n**股价表现**\n截至3月24日，股价报60.45港元，上升0.75%[5]。公司于1月8日上市，首日涨幅超38%，市值一度达232亿港元[1][5]。\n\n**近期动向**\n3月12日，公司自研\"三合一\"手术机器人平台获NMPA上市批准[3]。公司拟于3月27日举行董事会会议审批年度业绩[3]。1月13日，股价创上市新高至63.75港元[3]。\n\n**公司概况**\n精锋医疗是国产手术机器人龙头，IPO融资11.2亿港元[1]。截至2025年12月21日，已完成超12,000例多孔腔镜手术和2,000例单孔腔镜手术[4]。\n\n暂未见分析师评级相关信息。",
+      "error": null,
+      "citations": [
+        "https://www.futunn.com/stock/02675-HK/news",
+        "https://www.futunn.com/stock/02675-HK/announcement",
+        "https://www.itiger.com/hans/stock/02675/news",
+        "https://www.etnet.com.hk/www/tc/stocks/ipo-info.php?code=02675",
+        "http://www.aastocks.com/sc/stocks/analysis/stock-aafn/02675/0/hk-stock-news/1",
+        "https://www.laohu8.com/stock/02675",
+        "http://stock.finance.sina.com.cn/hkstock/news/02675.html",
+        "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2675&sc_lang=zh-HK",
+        "https://m.hkej.com/landing/mobarticle2/id/4333036/%25E7%25B2%25BE%25E9%258B%2592%25E9%2586%25AB%25E7%2599%2582%25EF%25BC%258D%25EF%25BC%25A2%252802675%2529%2520%25E6%259C%2588%25E5%25A0%25B1%25E8%25A1%25A8"
+      ]
+    },
+    {
+      "company": "天数智芯",
+      "ticker": null,
+      "sector": "AI芯片",
+      "success": true,
+      "content": "天数智芯（09903.HK）最新股价**293.40港元**（3/20收盘），**涨8.40港元（+2.95%）**。[3]\n\n近期新闻：2月底盘中股价创新高，一度涨超7%，昨日大涨超20%；华鑫证券首次覆盖，看好GPU“云+边+端”布局，天垓Gen3预计2026Q1量产。[1][2]\n\n分析师评级：华鑫证券给予**“买入”**，近3月1位分析师强力推荐100%。[1][3]\n\n（数据截至2026/3/23，最新动态请查实时行情。共98字）",
+      "error": null,
+      "citations": [
+        "https://m.dtm.com.cn/news/202602/200007.html",
+        "https://finance.sina.com.cn/stock/hkstock/2026-02-27/doc-inhpfhts3864002.shtml?froms=ggmp",
+        "https://www.moomoo.com/hans/stock/09903-HK/forecast",
+        "https://www.itiger.com/hant/news/2614501225",
+        "https://caifuhao.eastmoney.com/news/20260114095418202862960",
+        "https://www.futunn.com/stock/09903-HK/institutional-ratings",
+        "https://www.sl886.com/stock/09903",
+        "https://hk.investing.com/equities/shanghai-iluvatar-corex-semicon-co",
+        "https://pdf.dfcfw.com/pdf/H3_AP202603051820304136_1.pdf?1772731559000.pdf"
+      ]
+    },
+    {
+      "company": "海致科技",
+      "ticker": null,
+      "sector": "科技",
+      "success": true,
+      "content": "**海致科技 (02706.HK) 最新股价**：截至2026年3月23日收盘，**70.850港元**，跌**9.150港元 (-11.44%)**。[3]\n\n**近期重要公告/新闻**：公司上市后累计涨幅达5倍，近期回調回補裂口，但Atlas智能体業務2024年營收暴增872%，2025上半年增速38.4%，毛利率約40%，具高增長潛力。摩根大通AI研報對標Palantir，憧憬千億市值。[1][2][5]\n\n**分析师评级**：暫無具體數據。[3][4]\n\n（共98字）",
+      "error": null,
+      "citations": [
+        "https://hk.investing.com/news/stock-market-news/article-1324902",
+        "https://cn.investing.com/news/stock-market-news/article-3213240",
+        "https://www.futunn.com/stock/02706-HK/forecast?chain_id=Name1K9-3FXPhg.1kqmqk0",
+        "https://www.futunn.com/hk/stock/02706-HK/forecast",
+        "https://www.am730.com.hk/columns/2001953",
+        "https://cj.sina.cn/articles/view/5925384485/1612e3125001015rja?from=finance",
+        "https://www.laohu8.com/news/2611172544"
+      ]
+    }
+  ]
+}
