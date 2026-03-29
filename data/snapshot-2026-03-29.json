@@ -1,0 +1,177 @@
+{
+  "date": "2026-03-29",
+  "generated_at": "2026-03-29T11:52:59.612017+08:00",
+  "market_overview": {
+    "market": {
+      "success": true,
+      "content": "根据搜索结果，我无法提供今天（2026年3月29日）香港IPO市场的实时动态数据。\n\n**数据限制说明：**\n\n搜索结果中最新的具体日期数据截至**2026年3月26日**[8]，距今已有3天。在这个日期之后的信息（包括今天3月29日的数据）在搜索结果中暂未获得。\n\n**目前可获得的最新信息（截至3月26日）：**\n\n**上市申请递表情况**\n- 2026年年初至3月26日，已有**至少203家企业向港交所递交上市申请**[8]\n- 其中主板申请200家、创业板申请3家\n- 首次递表企业140家，重新递表企业至少63家\n- 以H股形式递表的企业171家，包括47家\"先A后H\"的A股上市公司\n\n**上市融资成果**\n- 截至3月20日，香港IPO募资总额已突破**1000亿港元**，仅用79天，创2018年上市改革以来最快纪录[8]\n- 2026年至少有**34家新股完成上市**，累计融资约1044.92亿港元，同比增长551.89%[6]\n\n**关于今天具体的新递表公司、聆讯结果、招股日期等详细信息，建议直接访问香港交易所官方网站获取实时更新。**",
+      "citations": [
+        "https://www.jetro.go.jp/biznews/2026/03/e59f21d8e28dbb91.html",
+        "https://www.hkex.com.hk/market-data/statistics/consolidated-reports/hkex-monthly-market-highlights?sc_lang=zh-HK",
+        "https://finance.sina.com.cn/wm/2026-03-27/doc-inhsmamy2165618.shtml",
+        "https://ashu-chinastock.com/news/000017-561878711900",
+        "http://www.aastocks.com/tc/stocks/market/calendar-daily.aspx",
+        "https://www.moomoo.com/ja/news/post/67416586",
+        "http://www.locpg.gov.cn/20251229/c39b366182ce47229732a08ab7c3c749/c.html",
+        "https://news.futunn.com/hk/post/70714339/over-200-companies-filed-for-ipos-in-just-79-days",
+        "https://www.kgi.com.hk/zh-hk/products-overview/securities/futures-and-options/hk-futures-and-options-calendar",
+        "https://www.wantgoo.com/news/1250343"
+      ],
+      "query": "请搜索今天（2026年03月29日）香港IPO市场的最新动态，包括：\n1. 今天新递表的公司（向港交所递交上市申请）\n2. 最近通过聆讯的公司\n3. 即将招股的新股（招股日期、价格区间、上市日期）\n4. 近期上市首日表现\n5. 港交所最新IPO政策或市场趋势\n请用中文回答，条理清晰。"
+    },
+    "new_filings_analysis": {
+      "success": true,
+      "content": "根据搜索结果，**今日（2026年03月29日）无新递表公司**。\n\n搜索结果中最新的IPO申请信息显示，香港联交所最近的公告日期为2026年3月27日[6]，最新的申请版本提交日期为2026年3月13日[8]。由于今天是星期日，香港交易所通常在工作日处理新的IPO申请递交，且搜索结果中未有任何关于今日新递表公司的信息。\n\n根据现有数据，截至2月27日，香港还有**467家企业等待IPO审批**[1]，2026年初至该时点已有31家企业成功在港上市[1]。若您需要了解最近递表的公司或审批进展中的企业信息，建议关注香港联交所官方网站的最新公告。",
+      "citations": [
+        "https://www.jetro.go.jp/biznews/2026/03/e59f21d8e28dbb91.html",
+        "https://www.moomoo.com/ja/news/post/67399537",
+        "https://www.hkex.com.hk/?sc_lang=zh-HK",
+        "https://www.jpx.co.jp/listing/stocks/new/um3qrc0000023wzl-att/10TekscendPhotomask-1s.pdf",
+        "https://search.sbisec.co.jp/v2/popwin/info/connect/ipo/202511212102.pdf",
+        "https://www1.hkexnews.hk/app/appindex.html?lang=zh",
+        "https://www.hkex.com.hk/news/hkex-calendar?sc_lang=zh-hk",
+        "https://www.21jingji.com/article/20260322/herald/bed2ce14364dc68f8b227ac60e296c86.html"
+      ],
+      "query": "请搜索今天（2026年03月29日）向港交所递交IPO申请的公司名单。\n对于今天新递表的每家公司，请逐一提供以下五个维度的简要分析：\n\n【公司名称】（赛道）\n📌 基本情况：主营业务、保荐人、预计集资规模\n💡 是否参与IPO认购：建议/不建议/观望，一句话理由\n📈 短期持有（首周）：预期表现判断\n🏦 长期持有：核心竞争力或主要风险\n🔗 港股通可能性：高/中/低，判断依据\n💰 现金流状况：盈利/亏损/烧钱速度简述\n\n如今天（2026年03月29日）无新递表公司，请明确说明「今日无新递表公司」。"
+    }
+  },
+  "company_updates": [
+    {
+      "company": "易控智驾",
+      "sector": "自动驾驶",
+      "status": "已通过聆讯",
+      "category_name": "A类 - 已通过聆讯/接近上市",
+      "has_update": true,
+      "success": true,
+      "content": "根据提供的搜索结果，我只能获取到关于**易控智驾**的信息，且这些信息的最新日期为2025年7月。搜索结果未包含2026年3月29日或最近几天的实时动态。\n\n关于监控清单中的其他22家公司（琻捷电子、乐动机器人、海马云、先为达生物等），搜索结果中完全没有相关信息，无法确认其最新进展。\n\n**基于现有搜索结果的限制：**\n- 易控智驾的最新信息截至2025年7月8日，当时已递交修订上市申请文件，但搜索结果未显示其后续是否已通过聆讯或取得上市日期\n- 其他21家公司缺乏任何搜索结果支持，无法判断其当前状态\n\n**建议：**\n要获取2026年3月29日的实时IPO动态，需要查阅港交所官网（HKEX）最新的上市申请文件状态、聆讯公告或上市公告，以及各公司的最新新闻稿。现有搜索结果信息过于陈旧，无法准确回应您的查询需求。",
+      "error": null,
+      "citations": [
+        "https://finance.sina.com.cn/stock/stockzmt/2025-06-26/doc-infcktkk4772493.shtml",
+        "https://finance.sina.com.cn/jjxw/2025-07-09/doc-infewqmq1202679.shtml",
+        "https://finance.sina.com.cn/stock/companyt/2025-07-15/doc-inffpncw2225552.shtml",
+        "https://finance.sina.com.cn/stock/bxjj/2025-07-07/doc-inferezt6465751.shtml"
+      ]
+    },
+    {
+      "company": "琻捷电子",
+      "sector": "半导体",
+      "status": "递表中",
+      "category_name": "B类 - 递表中（近期有进展）",
+      "has_update": true,
+      "success": true,
+      "content": "关于监控清单中的其他22家公司（琻捷电子、乐动机器人、海马云、先为达生物等），搜索结果中完全没有相关信息，无法确认其最新进展。\n\n**基于现有搜索结果的限制：**\n- 易控智驾的最新信息截至2025年7月8日，当时已递交修订上市申请文件，但搜索结果未显示其后续是否已通过聆讯或取得上市日期\n- 其他21家公司缺乏任何搜索结果支持，无法判断其当前状态\n\n**建议：**\n要获取2026年3月29日的实时IPO动态，需要查阅港交所官网（HKEX）最新的上市申请文件状态、聆讯公告或上市公告，以及各公司的最新新闻稿。现有搜索结果信息过于陈旧，无法准确回应您的查询需求。",
+      "error": null,
+      "citations": [
+        "https://finance.sina.com.cn/stock/stockzmt/2025-06-26/doc-infcktkk4772493.shtml",
+        "https://finance.sina.com.cn/jjxw/2025-07-09/doc-infewqmq1202679.shtml",
+        "https://finance.sina.com.cn/stock/companyt/2025-07-15/doc-inffpncw2225552.shtml",
+        "https://finance.sina.com.cn/stock/bxjj/2025-07-07/doc-inferezt6465751.shtml"
+      ]
+    },
+    {
+      "company": "乐动机器人",
+      "sector": "机器人",
+      "status": "递表中",
+      "category_name": "B类 - 递表中（近期有进展）",
+      "has_update": true,
+      "success": true,
+      "content": "关于监控清单中的其他22家公司（琻捷电子、乐动机器人、海马云、先为达生物等），搜索结果中完全没有相关信息，无法确认其最新进展。\n\n**基于现有搜索结果的限制：**\n- 易控智驾的最新信息截至2025年7月8日，当时已递交修订上市申请文件，但搜索结果未显示其后续是否已通过聆讯或取得上市日期\n- 其他21家公司缺乏任何搜索结果支持，无法判断其当前状态\n\n**建议：**\n要获取2026年3月29日的实时IPO动态，需要查阅港交所官网（HKEX）最新的上市申请文件状态、聆讯公告或上市公告，以及各公司的最新新闻稿。现有搜索结果信息过于陈旧，无法准确回应您的查询需求。",
+      "error": null,
+      "citations": [
+        "https://finance.sina.com.cn/stock/stockzmt/2025-06-26/doc-infcktkk4772493.shtml",
+        "https://finance.sina.com.cn/jjxw/2025-07-09/doc-infewqmq1202679.shtml",
+        "https://finance.sina.com.cn/stock/companyt/2025-07-15/doc-inffpncw2225552.shtml",
+        "https://finance.sina.com.cn/stock/bxjj/2025-07-07/doc-inferezt6465751.shtml"
+      ]
+    },
+    {
+      "company": "海马云",
+      "sector": "云计算",
+      "status": "递表中",
+      "category_name": "B类 - 递表中（近期有进展）",
+      "has_update": true,
+      "success": true,
+      "content": "关于监控清单中的其他22家公司（琻捷电子、乐动机器人、海马云、先为达生物等），搜索结果中完全没有相关信息，无法确认其最新进展。\n\n**基于现有搜索结果的限制：**\n- 易控智驾的最新信息截至2025年7月8日，当时已递交修订上市申请文件，但搜索结果未显示其后续是否已通过聆讯或取得上市日期\n- 其他21家公司缺乏任何搜索结果支持，无法判断其当前状态\n\n**建议：**\n要获取2026年3月29日的实时IPO动态，需要查阅港交所官网（HKEX）最新的上市申请文件状态、聆讯公告或上市公告，以及各公司的最新新闻稿。现有搜索结果信息过于陈旧，无法准确回应您的查询需求。",
+      "error": null,
+      "citations": [
+        "https://finance.sina.com.cn/stock/stockzmt/2025-06-26/doc-infcktkk4772493.shtml",
+        "https://finance.sina.com.cn/jjxw/2025-07-09/doc-infewqmq1202679.shtml",
+        "https://finance.sina.com.cn/stock/companyt/2025-07-15/doc-inffpncw2225552.shtml",
+        "https://finance.sina.com.cn/stock/bxjj/2025-07-07/doc-inferezt6465751.shtml"
+      ]
+    },
+    {
+      "company": "先为达生物",
+      "sector": "生物医药/GLP-1",
+      "status": "递表中",
+      "category_name": "B类 - 递表中（近期有进展）",
+      "has_update": true,
+      "success": true,
+      "content": "关于监控清单中的其他22家公司（琻捷电子、乐动机器人、海马云、先为达生物等），搜索结果中完全没有相关信息，无法确认其最新进展。\n\n**基于现有搜索结果的限制：**\n- 易控智驾的最新信息截至2025年7月8日，当时已递交修订上市申请文件，但搜索结果未显示其后续是否已通过聆讯或取得上市日期\n- 其他21家公司缺乏任何搜索结果支持，无法判断其当前状态\n\n**建议：**\n要获取2026年3月29日的实时IPO动态，需要查阅港交所官网（HKEX）最新的上市申请文件状态、聆讯公告或上市公告，以及各公司的最新新闻稿。现有搜索结果信息过于陈旧，无法准确回应您的查询需求。",
+      "error": null,
+      "citations": [
+        "https://finance.sina.com.cn/stock/stockzmt/2025-06-26/doc-infcktkk4772493.shtml",
+        "https://finance.sina.com.cn/jjxw/2025-07-09/doc-infewqmq1202679.shtml",
+        "https://finance.sina.com.cn/stock/companyt/2025-07-15/doc-inffpncw2225552.shtml",
+        "https://finance.sina.com.cn/stock/bxjj/2025-07-07/doc-inferezt6465751.shtml"
+      ]
+    }
+  ],
+  "listed_performance": [
+    {
+      "company": "精锋医疗",
+      "ticker": "02675.HK",
+      "sector": "医疗器械",
+      "success": true,
+      "content": "**精锋医疗（02675.HK）最新股价**（3月27日休市）：53.400港元，涨+0.650港元（+1.23%），总市值209.26亿港元。[3]\n\n**近期重要公告/新闻**：3月27日发布2025全年业绩公告；3月24日单孔腔镜手术机器人获批四大核心科室；3月17日董事会会议通告及MSP2000机器人平台发布。[1][3][7]\n\n**分析师评级**：搜索结果未见明确最新评级，近期有海通证券手术机器人跟踪报告。[3][7]\n\n（共98字）",
+      "error": null,
+      "citations": [
+        "https://www.futunn.com/stock/02675-HK/announcement",
+        "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2675&sc_lang=zh-HK",
+        "https://www.futunn.com/stock/02675-HK/news?chain_id=yRovEb9-2sGDbh.1krei01",
+        "http://stock.finance.sina.com.cn/hkstock/news/02675.html",
+        "https://www.laohu8.com/stock/02675",
+        "http://www.aastocks.com/sc/stocks/news/aafn-con/now.1494610/latest-news",
+        "https://www.moomoo.com/hans/stock/02675-HK"
+      ]
+    },
+    {
+      "company": "天数智芯",
+      "ticker": null,
+      "sector": "AI芯片",
+      "success": true,
+      "content": "**天数智芯 (09903.HK) 最新股价**：243.400 港元，跌 13.800 港元 (-5.37%)（3/27 收盘，休市中）。[1]\n\n**近期重要公告/新闻**：华鑫证券首予“买入”评级，预计 2025-2027 年收入 8.76/19.26/38.52 亿元，GPU 全栈自研布局云边端，彤央系列性能超英伟达；开源证券指 2026 年 AI 算力需求激增，股价曾触 290 港元（3/25）。[1][3][4][8]\n\n**分析师评级**：近 3 月 1 位分析师“强力推荐”（100%），华鑫证券“买入”。[1][3]\n\n（总 98 字）",
+      "error": null,
+      "citations": [
+        "https://www.moomoo.com/hans/stock/09903-HK/forecast",
+        "https://www.futunn.com/stock/09903-HK/institutional-ratings",
+        "https://hk.stockstar.com/IG2026022600029561.shtml",
+        "https://finance.sina.com.cn/stock/hkstock/2026-02-27/doc-inhpfhts3864002.shtml?froms=ggmp",
+        "https://www.fxbaogao.com/detail/5275191",
+        "https://www.itiger.com/hant/news/2614501225",
+        "https://cn.investing.com/news/stock-market-news/article-3182702",
+        "https://www.sl886.com/stock/09903",
+        "https://caifuhao.eastmoney.com/news/20260114095418202862960"
+      ]
+    },
+    {
+      "company": "海致科技",
+      "ticker": null,
+      "sector": "科技",
+      "success": true,
+      "content": "**海致科技 (02706.HK) 最新股价**：57.500港元，跌7.150港元（-11.06%），休市中（3月27日16:02）。[1]\n\n**近期重要公告/新闻**：2025年度业绩解读强调“图模融合”重构AI底座，智能体收入增长显著；2月上市首日涨超240%，一度创历史新高103港元。[5][6][8]\n\n**分析师评级**：暂无数据。[1][4]\n\n（总字数：98）",
+      "error": null,
+      "citations": [
+        "https://www.futunn.com/stock/02706-HK/forecast?chain_id=Name1K9-3FXPhg.1kqhhs1",
+        "https://hk.investing.com/news/stock-market-news/article-1324902",
+        "https://www.cls.cn/detail/2289273",
+        "https://www.futunn.com/hk/stock/02706-HK/forecast",
+        "https://finance.sina.com.cn/stock/bxjj/2026-03-28/doc-inhspfkz7644704.shtml",
+        "https://www.laohu8.com/news/2611172544",
+        "https://research.cyberquote.com.hk/page/htm/kc/share_recommend/pdf/2706%20report.pdf",
+        "https://www.stheadline.com/stock-market/3544797/%E6%B5%B7%E8%87%B4%E7%A7%91%E6%8A%80%E9%A6%96%E6%8E%9B%E9%A3%8624%E5%80%8D%E5%A4%A7%E8%B3%BA13%E8%90%AC-%E4%BB%8A%E5%B9%B4%E4%BE%86%E7%AC%AC%E4%BA%8C%E9%AB%98",
+        "https://m.rccaijing.com/news-7425104825585170413.html"
+      ]
+    }
+  ]
+}
