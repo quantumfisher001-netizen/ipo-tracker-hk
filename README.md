@@ -22,6 +22,7 @@
 | 🆕 **新递表项目** | 热门赛道（半导体/AI/生物医药/机器人等）新递表公司分析 |
 | 📈 **已上市表现** | 精锋医疗、天数智芯等已上市股票股价及新闻 |
 | ⚠️ **风险提示** | 自动附加投资风险声明 |
+| 🔍 **加密货币庄家行为分析** | 手动触发，输入持仓数据，AI 判断庄家操控手法并给出操作建议 |
 
 ---
 
@@ -30,12 +31,12 @@
 ```
 Perplexity Sonar API（实时联网搜索）
         ↓
-GitHub Actions（每天 9:00 / 16:00 HKT 自动运行）
+GitHub Actions（每天 9:00 / 16:00 HKT 自动运行 / 手动触发庄家分析）
         ↓
-Python 3.11（monitor.py 执行三大任务）
+Python 3.11（monitor.py / crypto_mm_analyzer.py）
         ↓
 报告输出
-├── GitHub Issues（每日日报，带标签 ipo-daily-report）
+├── GitHub Issues（每日日报 / 庄家分析报告）
 └── reports/ 目录（Markdown 存档）
         +
 data/ 目录（JSON 数据快照）
@@ -107,14 +108,16 @@ data/ 目录（JSON 数据快照）
 ipo-tracker-hk/
 ├── .github/
 │   └── workflows/
-│       └── ipo-monitor.yml        # GitHub Actions 定时任务
+│       ├── ipo-monitor.yml            # GitHub Actions 定时任务（IPO 日报）
+│       └── crypto-mm-analysis.yml     # GitHub Actions 手动触发（庄家分析）
 ├── src/
-│   ├── monitor.py                 # 主程序
-│   ├── perplexity_client.py       # Perplexity API 封装
-│   ├── report_generator.py        # 报告生成
-│   └── ipo_watchlist.py           # 监控清单
-├── data/                          # JSON 数据快照存档
-├── reports/                       # Markdown 报告存档
+│   ├── monitor.py                     # IPO 监控主程序
+│   ├── crypto_mm_analyzer.py          # 加密货币庄家行为分析模块
+│   ├── perplexity_client.py           # Perplexity API 封装
+│   ├── report_generator.py            # 报告生成
+│   └── ipo_watchlist.py               # 监控清单
+├── data/                              # JSON 数据快照存档
+├── reports/                           # Markdown 报告存档
 ├── requirements.txt
 └── README.md
 ```
@@ -146,6 +149,36 @@ ipo-tracker-hk/
 
 ---
 
+## 🔍 加密货币庄家行为分析
+
+通过 **Actions → 加密货币庄家行为分析 → Run workflow** 手动触发，填写以下输入参数：
+
+> **前提条件**：需在仓库 **Settings → Secrets and variables → Actions** 中配置 `PPLX_API_KEY`（与 IPO 监控共用同一个密钥）。
+
+| 参数 | 说明 | 示例 |
+|------|------|------|
+| `token` | 代币名称 | BTC |
+| `cost_price` | 持仓成本价格 | $42,000 |
+| `current_price` | 当前价格 | $45,000 |
+| `pnl` | 持仓盈亏 | +7.1% |
+| `funding_rates` | 合约资金费率（近 3 期） | +0.01%, +0.02%, +0.03% |
+| `oi_change` | OI 变化（24h） | 增加 / 减少 / 稳定 |
+| `whale_flow` | 链上大户净流向 | 流入交易所 / 流出交易所 / 未知 |
+| `kol_frequency` | KOL 近期推文频率 | 正常 / 异常密集 |
+| `cex_consolidation` | 近期代币是否向 CEX 归集 | 是 / 否 / 未知 |
+
+分析结果将自动发布到 [Issues](../../issues?q=label%3Acrypto-mm-analysis) 页面（标签：`crypto-mm-analysis`），并存档到 `reports/` 目录。
+
+**分析内容包括：**
+1. 当前最符合哪种庄家手法（控盘拉盘出货 / 清算猎手 / KOL 轧空 / 资金费率套利 / 无明显操控）
+2. 出货阶段的 3 个具体证据（如适用）
+3. 操作建议（继续持有 / 止盈减仓 / 立即离场），附执行价位参考
+4. 危险信号倒计时（2-3 个必须在 10 分钟内离场的信号）
+
+---
+
 ## ⚠️ 免责声明
 
 本系统由 AI 自动生成报告，**仅供信息参考，不构成任何投资建议**。所有数据基于公开来源，请以港交所官方公告为准。
+
+加密货币庄家行为分析同样**仅供参考，不构成投资建议**。加密货币市场波动极大，存在本金全损风险，请自行承担投资风险。

@@ -1,0 +1,106 @@
+name: 🔍 加密货币庄家行为分析
+
+on:
+  workflow_dispatch:
+    inputs:
+      token:
+        description: "代币名称（例如：BTC、ETH、SOL）"
+        required: true
+        default: ""
+      cost_price:
+        description: "持仓成本价格（例如：$42,000）"
+        required: true
+        default: ""
+      current_price:
+        description: "当前价格（例如：$45,000）"
+        required: true
+        default: ""
+      pnl:
+        description: "持仓盈亏（例如：+7.1%）"
+        required: true
+        default: ""
+      funding_rates:
+        description: "合约资金费率，最近 3 期，逗号分隔（例如：+0.01%, +0.02%, +0.03%）"
+        required: true
+        default: ""
+      oi_change:
+        description: "OI 变化（过去 24 小时）：增加 / 减少 / 稳定"
+        required: true
+        type: choice
+        options:
+          - 增加
+          - 减少
+          - 稳定
+      whale_flow:
+        description: "链上大户净流向：流入交易所 / 流出交易所 / 未知"
+        required: true
+        type: choice
+        options:
+          - 流入交易所
+          - 流出交易所
+          - 未知
+      kol_frequency:
+        description: "KOL 近期推文频率：正常 / 异常密集"
+        required: true
+        type: choice
+        options:
+          - 正常
+          - 异常密集
+      cex_consolidation:
+        description: "近期是否有大量代币向 CEX 归集：是 / 否 / 未知"
+        required: true
+        type: choice
+        options:
+          - 是
+          - 否
+          - 未知
+
+jobs:
+  analyze:
+    name: 运行庄家行为分析
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: 📥 检出代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 设置 Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: 📦 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 🔍 运行庄家行为分析
+        env:
+          PPLX_API_KEY: ${{ secrets.PPLX_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          INPUT_TOKEN: ${{ inputs.token }}
+          INPUT_COST_PRICE: ${{ inputs.cost_price }}
+          INPUT_CURRENT_PRICE: ${{ inputs.current_price }}
+          INPUT_PNL: ${{ inputs.pnl }}
+          INPUT_FUNDING_RATES: ${{ inputs.funding_rates }}
+          INPUT_OI_CHANGE: ${{ inputs.oi_change }}
+          INPUT_WHALE_FLOW: ${{ inputs.whale_flow }}
+          INPUT_KOL_FREQUENCY: ${{ inputs.kol_frequency }}
+          INPUT_CEX_CONSOLIDATION: ${{ inputs.cex_consolidation }}
+        run: python src/crypto_mm_analyzer.py
+
+      - name: 💾 提交报告到仓库
+        env:
+          TOKEN_NAME: ${{ inputs.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/
+          TIMESTAMP=$(TZ='Asia/Hong_Kong' date '+%Y-%m-%d %H:%M HKT')
+          git diff --staged --quiet || git commit -m "🔍 加密货币庄家分析报告 ${TOKEN_NAME} ${TIMESTAMP}"
+          git push
