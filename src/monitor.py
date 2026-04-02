@@ -312,17 +312,16 @@ def main():
     date_str = now_hk.strftime("%Y-%m-%d")
     logger.info("香港IPO监控系统启动 - %s", now_hk.strftime("%Y-%m-%d %H:%M HKT"))
 
-    # 初始化 API 客户端
+    # 初始化 API 客户端并执行所有任务
     try:
-        client = PerplexityClient()
+        with PerplexityClient() as client:
+            # ── 执行任务 ───────────────────────────────────────────────────────
+            company_updates = track_company_progress(client)
+            market_overview = search_market_news(client)        # 返回 {"market":..., "new_filings_analysis":...}
+            listed_performance = track_listed_performance(client)
     except ValueError as e:
         logger.error("初始化 Perplexity 客户端失败：%s", e)
         sys.exit(1)
-
-    # ── 执行任务 ───────────────────────────────────────────────────────────────
-    company_updates = track_company_progress(client)
-    market_overview = search_market_news(client)        # 返回 {"market":..., "new_filings_analysis":...}
-    listed_performance = track_listed_performance(client)
 
     # ── 生成报告 ───────────────────────────────────────────────────────────────
     logger.info("正在生成报告...")

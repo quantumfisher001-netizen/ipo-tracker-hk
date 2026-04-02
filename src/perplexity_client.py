@@ -33,6 +33,17 @@ class PerplexityClient:
             }
         )
 
+    def __enter__(self):
+        return self
+
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        self.close()
+        return False
+
+    def close(self):
+        """关闭底层 HTTP 会话，释放连接资源"""
+        self.session.close()
+
     def search(
         self,
         query: str,
