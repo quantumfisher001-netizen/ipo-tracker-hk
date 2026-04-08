@@ -1,0 +1,133 @@
+{
+  "date": "2026-04-08",
+  "generated_at": "2026-04-08T11:49:00.524068+08:00",
+  "market_overview": {
+    "market": {
+      "success": true,
+      "content": "根据现有搜索结果，我无法为您提供**2026年4月8日**的实时IPO市场动态。搜索结果中最新的数据截至**2026年3月30日**，距离今天已有一周多。\n\n基于现有信息，我可以提供的最新数据为：\n\n## 最近市场动态（截至3月30日）\n\n**上市情况**\n3月30日，港交所共有4家公司同日挂牌上市[3]：\n- 华沿机器人（01021.HK）：开报16.8港元/股，市值约90亿港元\n- 德适生物（02526.HK）：暴涨121.21%，市值约200亿港元\n- 瀚天天成（02726.HK）：开盘暴涨44%报110港元/股，市值约468亿港元\n- 极视角（06636.HK）：开涨49.88%，市值约70亿港元\n\n**整体表现**\n截至3月30日，2026年内已有39只新股上市，合计募资规模超千亿港元[3]。2026年前79天（至3月20日），IPO募资总额已突破1000亿港元，创下2018年上市改革以来最快纪录[6]。\n\n**递表情况**\n截至3月26日，年内向港交所递交上市申请的企业已突破200家，达至少203家[6][7]。\n\n## 信息缺陷\n\n若需了解4月8日的具体动态（新递表公司、新通过聆讯企业、即将招股信息等），建议直接访问港交所官方网站或实时财经平台获取最新数据。",
+      "citations": [
+        "https://www.finet.com.cn/news/6983e2d4230829124d04852a.html",
+        "https://www.21jingji.com/article/20260202/herald/0edfcae126970da2c1165f728ead0d76.html",
+        "http://mp.cnfol.com/58822/article/1774853163-142333628.html",
+        "http://www.news.cn/20251014/bc4a7ce00dfa42c4ae5611c2e9dc0200/c.html",
+        "https://www.stcn.com/article/detail/3638291.html",
+        "https://news.futunn.com/post/70714339/over-200-companies-filed-for-ipos-in-just-79-days",
+        "https://finance.sina.com.cn/wm/2026-03-27/doc-inhsmamy2165618.shtml",
+        "https://hk.investing.com/news/stock-market-news/article-1381972",
+        "http://www.aastocks.com/tc/stocks/news/aafn-con/ZT1420291/popular-news/ZHITONG",
+        "https://cj.sina.cn/articles/view/5835524730/15bd30a7a020024l5c"
+      ],
+      "query": "请搜索今天（2026年04月08日）香港IPO市场的最新动态，包括：\n1. 今天新递表的公司（向港交所递交上市申请）\n2. 最近通过聆讯的公司\n3. 即将招股的新股（招股日期、价格区间、上市日期）\n4. 近期上市首日表现\n5. 港交所最新IPO政策或市场趋势\n请用中文回答，条理清晰。"
+    },
+    "new_filings_analysis": {
+      "success": true,
+      "content": "**今日无新递表公司。**\n\n根据港交所官网及相关财经资讯，2026年4月8日并无公司向港交所主板递交IPO申请的记录[2][3]。最近的递表活动见于更早日期，如1月底的17家公司（2026年1月30日）[1]，而新上市证券列表亦未显示当日递交[2]。若需历史递表或后续更新，可提供更多细节查询。",
+      "citations": [
+        "http://finance.sina.com.cn/wm/2026-02-02/doc-inhkmwpt7238886.shtml",
+        "https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=zh-hk",
+        "https://www.hkexnews.hk/reports/newlisting/new_listing_announcements_c.htm"
+      ],
+      "query": "请搜索今天（2026年04月08日）向港交所递交IPO申请的公司名单。\n对于今天新递表的每家公司，请逐一提供以下五个维度的简要分析：\n\n【公司名称】（赛道）\n📌 基本情况：主营业务、保荐人、预计集资规模\n💡 是否参与IPO认购：建议/不建议/观望，一句话理由\n📈 短期持有（首周）：预期表现判断\n🏦 长期持有：核心竞争力或主要风险\n🔗 港股通可能性：高/中/低，判断依据\n💰 现金流状况：盈利/亏损/烧钱速度简述\n\n如今天（2026年04月08日）无新递表公司，请明确说明「今日无新递表公司」。"
+    }
+  },
+  "company_updates": [
+    {
+      "company": "易控智驾",
+      "sector": "自动驾驶",
+      "status": "已通过聆讯",
+      "category_name": "A类 - 已通过聆讯/接近上市",
+      "has_update": true,
+      "success": true,
+      "content": "【易控智驾】\n动态：2025年12月29日再次向港交所提交上市申请书，独家保荐人为国泰海通。此前6月25日递交的招股书于12月25日失效，这是第二次递表。公司2024年收入9.86亿元，矿区无人驾驶市场份额约49.2%。[2][4][7]\n风险：持续亏损（2022-2024年累计净亏约7.38亿元），研发投入高，现金流压力大。[3][9]\n关联：同属自动驾驶赛道，魔视智能亦在等待聆讯阶段。[1]",
+      "error": null,
+      "citations": [
+        "https://cs.com.cn/gppd/ggzx/202506/t20250627_6498372.html",
+        "https://www.aastocks.com/tc/stocks/analysis/stock-aafn-con/00388/AAFN/NOW.1492807/hk-stock-news",
+        "https://www.sl886.com/blog/32748",
+        "https://m.aastocks.com/tc/stocks/analysis/stock-aafn-con/00388/AAFN/NOW.1492807/hk-stock-news",
+        "https://www.qbitai.com/2025/06/302060.html",
+        "https://www.futunn.com/stock/810808-HK",
+        "https://www.futunn.com/stock/810808-HK/news",
+        "https://hk.investing.com/news/stock-market-news/article-1248831",
+        "https://cj.sina.cn/articles/view/7915963911/1d7d406070010144de?vt=4"
+      ]
+    },
+    {
+      "company": "魔视智能",
+      "sector": "自动驾驶",
+      "status": "等待聆讯",
+      "category_name": "B类 - 递表中（等待聆讯）",
+      "has_update": true,
+      "success": true,
+      "content": "关联：同属自动驾驶赛道，魔视智能亦在等待聆讯阶段。[1]",
+      "error": null,
+      "citations": [
+        "https://cs.com.cn/gppd/ggzx/202506/t20250627_6498372.html",
+        "https://www.aastocks.com/tc/stocks/analysis/stock-aafn-con/00388/AAFN/NOW.1492807/hk-stock-news",
+        "https://www.sl886.com/blog/32748",
+        "https://m.aastocks.com/tc/stocks/analysis/stock-aafn-con/00388/AAFN/NOW.1492807/hk-stock-news",
+        "https://www.qbitai.com/2025/06/302060.html",
+        "https://www.futunn.com/stock/810808-HK",
+        "https://www.futunn.com/stock/810808-HK/news",
+        "https://hk.investing.com/news/stock-market-news/article-1248831",
+        "https://cj.sina.cn/articles/view/7915963911/1d7d406070010144de?vt=4"
+      ]
+    }
+  ],
+  "listed_performance": [
+    {
+      "company": "精锋医疗",
+      "ticker": "02675.HK",
+      "sector": "医疗器械",
+      "success": true,
+      "content": "**精锋医疗（02675.HK）最新股价**：69.850港元，涨6.950港元（+11.05%），成交量255.98万股。[1]\n\n**近期重要公告/新闻**：2025年营收激增184.8%至4.557亿元，海外收入占比超半，经调整净亏损收窄88.5%至0.205亿元；自研“三合一”手术机器人获NMPA上市，1月13日股价涨8.35%创上市新高。[1][2]\n\n**分析师评级**：搜索结果无明确评级信息。[1-7]\n\n（共98字）",
+      "error": null,
+      "citations": [
+        "https://www.itiger.com/hans/stock/02675/news",
+        "https://www.laohu8.com/stock/02675",
+        "https://www.moomoo.com/hans/stock/02675-HK",
+        "https://quotes.sina.cn/hk/company/quotes/view/02675",
+        "http://www.aastocks.com/sc/stocks/analysis/stock-aafn/02675/0/hk-stock-news/1",
+        "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2675&sc_lang=zh-HK",
+        "http://quote.eastmoney.com/hk/02675.html"
+      ]
+    },
+    {
+      "company": "天数智芯",
+      "ticker": null,
+      "sector": "AI芯片",
+      "success": true,
+      "content": "**天数智芯 (09903.HK) 最新股价**：截至2026年4月8日上午10:35，北京时间约**276.6港元**，**+56.8港元 (+25.84%)**，最高278港元，最低245.2港元。[5]\n\n**近期公告/新闻**：发布上市后首份2025年报，营收10.34亿元（+91.6%），毛利5.58亿元（+110.5%），但年亏加剧，四年累亏超32亿；股价连创新高，受AI算力需求推动。[1][3][6]\n\n**分析师评级**：搜索结果无明确评级信息。[2]（98字）",
+      "error": null,
+      "citations": [
+        "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20260401140111518620420&postId=1687935994",
+        "https://www.moomoo.com/hans/stock/09903-HK",
+        "http://www.aastocks.com/tc/stocks/analysis/stock-aafn/09903/0/hk-stock-news/1",
+        "https://www.etnet.com.hk/mobile/tc/stocks/quote_news_detail.php?newsid=ETN360213899&code=9903&section=related&page=1",
+        "https://www.futunn.com/stock/09903-HK",
+        "https://www.futunn.com/hk/stock/09903-HK",
+        "https://stockapp.finance.qq.com/mstats/?id=hk_mb_hscei",
+        "https://quotes.sina.cn/hk/company/quotes/view/09903?tabsource=cjzwy",
+        "https://quotes.sina.cn/hk/company/quotes/view/09903"
+      ]
+    },
+    {
+      "company": "海致科技",
+      "ticker": null,
+      "sector": "科技",
+      "success": true,
+      "content": "**海致科技 (02706.HK) 最新股价**为46.80港元，跌7.05%（4/2收盤）[2][3]；另報53.50港元，漲14.32%（即時）[3]。\n\n**近期公告**：2025年報收入增23.4%至6.21億人民幣，但虧損擴至2.05億元[3][4]；3月底創歷史新低55港元[5]；與智譜華章戰略合作（2月）[7]。\n\n**分析师评级**：搜索結果無具體評級資訊。[1][2][3][4]",
+      "error": null,
+      "citations": [
+        "https://www.futunn.com/hk/stock/02706-HK",
+        "https://www.futunn.com/stock/02706-HK",
+        "https://www.itiger.com/hant/stock/02706",
+        "https://www.aastocks.com/tc/stocks/analysis/stock-aafn/02706/0/hk-stock-news/1",
+        "https://gmg.9fzt.com/dynamic/HKSE/02706/5ef2fcdfd5b1d00c63f19174207f23b2.html",
+        "https://quotes.sina.cn/hk/company/quotes/view/02706",
+        "https://www.moomoo.com/hans/stock/02706-HK",
+        "https://www.lixinger.com/equity/company/detail/hk/02706/2706/capital-flow"
+      ]
+    }
+  ]
+}
