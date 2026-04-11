@@ -1,0 +1,117 @@
+{
+  "date": "2026-04-11",
+  "generated_at": "2026-04-11T11:34:10.830991+08:00",
+  "market_overview": {
+    "market": {
+      "success": true,
+      "content": "根据提供的搜索结果，我无法获取**2026年4月11日**的实时IPO市场动态。搜索结果中最新的数据截至**2026年4月5日**，具体说明如下：\n\n## 可获得的最新信息（截至4月5日）\n\n**近期上市情况**[2][5]\n- 最近一周（3月29日-4月5日）共有6只新股成功上市，分别为极视角、瀚天天成、德适-B、华沿机器人、傅里叶、铜师傅\n- 3只新股首日翻倍，铜师傅成为年度\"破发王\"\n\n**递表动态**[2][5]\n- 最近一周（3月30日-4月5日）共有40家公司递交上市申请，其中包括13家A股公司\n- 代表企业包括万辰集团、数聚智连、天华新能等\n\n**聆讯情况**[5]\n- 该周有2家公司通过聆讯\n\n## 年初以来的市场热度\n\n**募资规模**[3]\n- 截至3月20日，仅用79天IPO募资总额已突破1000亿港元，创2018年改革以来最快纪录\n\n**递表企业规模**[3]\n- 截至3月26日，年内递表企业已超200家，达至少203家\n\n## 数据限制说明\n\n由于搜索结果未能覆盖4月6日至4月11日的信息，我无法提供以下内容：\n- 今日具体的新递表公司\n- 最新的招股日程安排\n- 近日的聆讯通过情况\n- 最新的IPO政策调整\n\n建议您直接访问港交所官方网站或专业财经平台获取今日最新动态。",
+      "citations": [
+        "https://www.21jingji.com/article/20260202/herald/0edfcae126970da2c1165f728ead0d76.html",
+        "https://www.sina.cn/news/detail/5284972710594540.html",
+        "https://news.futunn.com/post/70714339/over-200-companies-filed-for-ipos-in-just-79-days",
+        "http://www.news.cn/20251014/bc4a7ce00dfa42c4ae5611c2e9dc0200/c.html",
+        "https://finance.sina.com.cn/roll/2026-04-07/doc-inhtsvwv7011408.shtml",
+        "https://www.jinguxun.com/article/7808786",
+        "https://finance.eastmoney.com/a/202602053642738533.html",
+        "http://www.aastocks.com/tc/stocks/news/aafn-con/ZT1420291/latest-news/ZHITONG",
+        "https://www.worldjournal.com/wj/story/121341/9430701"
+      ],
+      "query": "请搜索今天（2026年04月11日）香港IPO市场的最新动态，包括：\n1. 今天新递表的公司（向港交所递交上市申请）\n2. 最近通过聆讯的公司\n3. 即将招股的新股（招股日期、价格区间、上市日期）\n4. 近期上市首日表现\n5. 港交所最新IPO政策或市场趋势\n请用中文回答，条理清晰。"
+    },
+    "new_filings_analysis": {
+      "success": true,
+      "content": "**今日无新递表公司。**\n\n搜索结果显示，最近港交所IPO递表活动主要集中在2026年4月2日（14家公司，如新希望乳业、潮宏基等）及3月（17家首次递表），无任何来源提及2026年4月11日（周六）的新递表公司[4][5][6]。港交所官网及相关新闻亦未记录当日申请[9]。",
+      "citations": [
+        "http://www.news.cn/20251014/bc4a7ce00dfa42c4ae5611c2e9dc0200/c.html",
+        "https://m.10jqka.com.cn/20260202/c674484944.shtml",
+        "https://www.21jingji.com/article/20260202/herald/0edfcae126970da2c1165f728ead0d76.html",
+        "https://finance.sina.com.cn/wm/2026-04-03/doc-inhtfkwz8860210.shtml",
+        "https://www.sina.cn/news/detail/5284360023967769.html",
+        "https://finance.sina.com.cn/roll/2026-04-06/doc-inhtpewk4801552.shtml",
+        "https://www.chaoshangsec.com/content.asp?pageid=63",
+        "https://www.stcn.com/article/detail/3620873.html",
+        "https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=zh-hk",
+        "http://m.capwhale.com/newsfile/mdetails/20260202/md246f9216d6e43f1a4b7978242238b36.shtml"
+      ],
+      "query": "请搜索今天（2026年04月11日）向港交所递交IPO申请的公司名单。\n对于今天新递表的每家公司，请逐一提供以下五个维度的简要分析：\n\n【公司名称】（赛道）\n📌 基本情况：主营业务、保荐人、预计集资规模\n💡 是否参与IPO认购：建议/不建议/观望，一句话理由\n📈 短期持有（首周）：预期表现判断\n🏦 长期持有：核心竞争力或主要风险\n🔗 港股通可能性：高/中/低，判断依据\n💰 现金流状况：盈利/亏损/烧钱速度简述\n\n如今天（2026年04月11日）无新递表公司，请明确说明「今日无新递表公司」。"
+    }
+  },
+  "company_updates": [
+    {
+      "company": "易控智驾",
+      "sector": "自动驾驶",
+      "status": "已通过聆讯",
+      "category_name": "A类 - 已通过聆讯/接近上市",
+      "has_update": true,
+      "success": true,
+      "content": "【易控智驾】\n动态：2026年4月4日获颁第一届应急管理科技创新奖一等奖；近期与紫金矿业合作澳大利亚诺顿金田项目完成“安全员下车”常态化测试，标志无人驾驶系统具备完全自主运行能力。[1][2]\n风险：2025年前9个月营收9.21亿元但经调整净亏4.15亿元，现金5.57亿元。[5]\n关联：同矿区无人驾驶赛道希迪智驾已通过港交所聆讯。[6]",
+      "error": null,
+      "citations": [
+        "https://www.eacon.com/news/",
+        "https://www.stcn.com/article/detail/3563937.html",
+        "https://m.caixin.com/m/2025-06-26/102335062.html",
+        "https://news.qq.com/rain/a/20251231A02M2P00",
+        "https://finance.sina.com.cn/tech/csj/2025-12-31/doc-inhervyw3821463.shtml",
+        "https://mine.iyiou.com/news/1117177",
+        "https://www.futunn.com/stock/810808-HK/news",
+        "https://www.aastocks.com/tc/stocks/news/aafn-con/now.1516119/latest-news",
+        "https://www1.hkexnews.hk/app/appindex.html?lang=zh"
+      ]
+    }
+  ],
+  "listed_performance": [
+    {
+      "company": "精锋医疗",
+      "ticker": "02675.HK",
+      "sector": "医疗器械",
+      "success": true,
+      "content": "**精锋医疗（02675.HK）最新股价**：57.350港元，涨0.550港元（+0.97%）。[7]\n\n**近期重要公告/新闻**：2025年度营收4.557亿元人民币（+184.8%），经调整净亏损收窄88.5%至0.205亿元；自研“三合一”手术机器人获NMPA上市，股价曾涨超9%创历史新高。[2][3][5]\n\n**分析师评级**：搜索结果无明确评级信息。[1][2] \n\n（数据截至最近交易日，约100字）",
+      "error": null,
+      "citations": [
+        "https://www.moomoo.com/hans/stock/02675-HK",
+        "https://www.itiger.com/hans/stock/02675/news",
+        "https://www.laohu8.com/stock/02675",
+        "https://quotes.sina.cn/hk/company/quotes/view/02675",
+        "http://m.aastocks.com/tc/stocks/analysis/stock-aafn/02675/0/hk-stock-news/1",
+        "http://quote.eastmoney.com/hk/02675.html",
+        "https://www.hkex.com.hk/Market-Data/Securities-Prices/Equities/Equities-Quote?sym=2675&sc_lang=zh-HK"
+      ]
+    },
+    {
+      "company": "天数智芯",
+      "ticker": null,
+      "sector": "AI芯片",
+      "success": true,
+      "content": "**天数智芯（09903.HK）最新股价**：4月10日11:57报329.4港元，涨33.4港元（+11.28%），市值837.72亿港元。[2]\n\n**近期公告/新闻**：4月8日大涨超23%-35%，报271.6-297.6港元，受AI算力景气及2025年报催化（营收10.34亿元，同比增91.6%；亏损10.04亿元）。[1][2][3]\n\n**分析师评级**：国海证券“买入”（2026-2028营收预测21.17/41.83/78.30亿元）；摩根大通“增持”（目标价620港元）。[1][3]\n\n（数据截至4月10日，约128字）",
+      "error": null,
+      "citations": [
+        "https://www.finet.com.cn/news/69d5c46623082938fb53d255.html",
+        "https://www.futunn.com/stock/09903-HK",
+        "http://www.aastocks.com/tc/stocks/analysis/stock-aafn/09903/0/hk-stock-news/1",
+        "https://www.moomoo.com/hans/stock/09903-HK",
+        "https://www.futunn.com/hk/stock/09903-HK",
+        "https://www.etnet.com.hk/www/tc/stocks/realtime/quote.php?code=09903",
+        "https://quotes.sina.cn/hk/company/quotes/view/09903?tabsource=cjzwy",
+        "https://quote.eastmoney.com/q/0.980006.html?jump_to_web=true"
+      ]
+    },
+    {
+      "company": "海致科技",
+      "ticker": null,
+      "sector": "科技",
+      "success": true,
+      "content": "海致科技集團(02706)最新收盤價**52.000港元**，漲**+0.450港元(+0.87%)**（4月10日收盤，高54.300、低50.200）[1][2][4]。\n\n近期新聞：4月8日午前漲超13%報52.95港元；去年Atlas智能體收入同比增68.4%；4月2日股份維持4億股[1][2]。\n\n無**近期**（2026年4月）**分析師評級**資料[1-8]。（98字）",
+      "error": null,
+      "citations": [
+        "https://www.itiger.com/hant/stock/02706",
+        "https://www.futunn.com/hk/stock/02706-HK",
+        "https://www.moomoo.com/hans/stock/02706-HK",
+        "https://www.futunn.com/stock/02706-HK",
+        "https://www.aastocks.com/tc/stocks/analysis/stock-aafn/02706/0/hk-stock-news/1",
+        "https://quotes.sina.cn/hk/company/quotes/view/02706",
+        "https://www.cnyes.com/hkstock/quote/02706",
+        "https://wap.eastmoney.com/quote/stock/116.02706.html"
+      ]
+    }
+  ]
+}
