@@ -1,0 +1,96 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T12:13:42.666022+08:00",
+  "market_overview": {
+    "market": {
+      "success": true,
+      "content": "根据提供的搜索结果，我无法提供2026年5月5日当日的香港IPO市场最新动态。\n\n搜索结果中最新的数据截至**2026年3月26日至4月初**，包括：\n\n**已有信息（3月底前）：**\n- 截至3月26日，年内向港交所递交上市申请的企业已超过200家，达至少203家[5]\n- 主板申请200家，创业板申请3家；其中首次递表企业140家，至少两次递表企业63家[5]\n- 港股仍有401宗新股上市申请等待处理[4]\n- 3月30日，万辰集团第2次向港交所递交招股书[9]\n\n**信息缺陷：**\n我无法提供以下信息，因为搜索结果不包含这些内容：\n1. 今天（5月5日）新递表的公司具体情况\n2. 最近通过聆讯的具体公司名单和时间\n3. 当前即将招股的新股招股日期和价格区间\n4. 近期上市首日的表现数据\n5. 最新的港交所IPO政策变化\n\n**建议：** 如需获取5月5日的实时IPO动态，建议直接访问港交所官网、Wind资讯或财经新闻网站获取最新披露信息。",
+      "citations": [
+        "https://www.21jingji.com/article/20260202/herald/0edfcae126970da2c1165f728ead0d76.html",
+        "http://www.news.cn/20251014/bc4a7ce00dfa42c4ae5611c2e9dc0200/c.html",
+        "https://www.9fzt.com/9fztgw_1_top/0c874e85b1a4d2120d7cd5d618213090.html",
+        "https://www.stcn.com/article/detail/3644842.html",
+        "https://finance.sina.com.cn/wm/2026-03-27/doc-inhsmamy2165618.shtml",
+        "https://www.cls.cn/detail/2291045",
+        "http://www.aastocks.com/tc/stocks/news/aafn-con/ZT1420291/latest-news/ZHITONG",
+        "https://www.pwccn.com/zh/press-room/press-releases/pr-050126.html",
+        "https://www.jinguxun.com/article/7808786"
+      ],
+      "query": "请搜索今天（2026年05月05日）香港IPO市场的最新动态，包括：\n1. 今天新递表的公司（向港交所递交上市申请）\n2. 最近通过聆讯的公司\n3. 即将招股的新股（招股日期、价格区间、上市日期）\n4. 近期上市首日表现\n5. 港交所最新IPO政策或市场趋势\n请用中文回答，条理清晰。"
+    },
+    "new_filings_analysis": {
+      "success": true,
+      "content": "**今日无新递表公司。**\n\n根据港交所官网及相关市场报道，2026年5月5日（今日）无公司向港交所递交IPO申请的记录[1][5][6][8][9][10]。最近递表活动集中在上周（如5月23日4家公司：科望医药、乐自天成、华曦达、福瑞泰克），而2026年早期（如1-2月）有较多企业递表，但无今日具体信息[1][2][3][7]。若需查询特定日期或最新动态，可提供补充查询。",
+      "citations": [
+        "https://stcn.com/article/detail/1846434.html",
+        "https://finance.sina.com.cn/stock/relnews/cn/2026-01-05/doc-inhfhpmi7873944.shtml",
+        "https://finance.sina.com.cn/jjxw/2026-02-15/doc-inhmwfpn7334518.shtml",
+        "https://www.stcn.com/article/detail/3620873.html",
+        "https://www.hkex.com.hk/?sc_lang=zh-hk",
+        "https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=zh-hk",
+        "https://stock.hexun.com/2026-01-05/223036320.html",
+        "https://www.hkexnews.hk/reports/newlisting/new_listing_announcements_c.htm",
+        "http://www.aastocks.com/tc/stocks/market/ipo/mainpage.aspx",
+        "https://www1.hkexnews.hk/listedco/listconews/index/lci.html?lang=zh"
+      ],
+      "query": "请搜索今天（2026年05月05日）向港交所递交IPO申请的公司名单。\n对于今天新递表的每家公司，请逐一提供以下五个维度的简要分析：\n\n【公司名称】（赛道）\n📌 基本情况：主营业务、保荐人、预计集资规模\n💡 是否参与IPO认购：建议/不建议/观望，一句话理由\n📈 短期持有（首周）：预期表现判断\n🏦 长期持有：核心竞争力或主要风险\n🔗 港股通可能性：高/中/低，判断依据\n💰 现金流状况：盈利/亏损/烧钱速度简述\n\n如今天（2026年05月05日）无新递表公司，请明确说明「今日无新递表公司」。"
+    }
+  },
+  "company_updates": [],
+  "listed_performance": [
+    {
+      "company": "精锋医疗",
+      "ticker": "02675.HK",
+      "sector": "医疗器械",
+      "success": true,
+      "content": "精锋医疗（02675.HK）最新股价约**52.90港元**，较前日持平（数据截至2026年4月25日），52周范围48.00-73.70港元[5][6]。\n\n近期公告：2025年营收4.56亿元（增184.8%），毛利率66%，净亏损收窄近六成；3月董事会会议通告及MSP2000机器人发布[2][3][7]。\n\n分析师评级：星展首予**“买入”**，目标价68.1港元[2]。\n\n（数据来源实时变动，以最新交易时段为准，总字数128）",
+      "error": null,
+      "citations": [
+        "http://www.aastocks.com/sc/stocks/analysis/stock-aafn/02675/0/hk-stock-news/1",
+        "https://www.moomoo.com/hans/stock/02675-HK",
+        "https://www.itiger.com/hans/stock/02675",
+        "https://www.etnet.com.hk/www/sc/stocks/realtime/quote.php?code=02675",
+        "https://quotes.sina.cn/hk/company/quotes/view/02675?tabsource=cjzwy",
+        "https://hk.investing.com/equities/shenzhen-edge-medical-co-ltd",
+        "https://www.sl886.com/stock/02675",
+        "http://www.aastocks.com/tc/stocks/analysis/stock-aafn/02675/0/hk-stock-news/1",
+        "http://quote.eastmoney.com/hk/02675.html"
+      ]
+    },
+    {
+      "company": "天数智芯",
+      "ticker": null,
+      "sector": "AI芯片",
+      "success": true,
+      "content": "**天数智芯(09903.HK)最新股价**：截至2026年5月4日收盘约**560港元**，涨**+94.2港元(+20.22%)**，日内最高570港元。[3][6]\n\n**近期公告/新闻**：港股芯片股领涨，天数智芯涨幅居前；2025年营收10亿亏损10亿，但推理业务增238.2%；摩根大通首予“增持”评级，目标价620港元；国海证券“买入”评级，预计2027年盈利。[1][3][5]\n\n**分析师评级**：摩根大通“增持”(目标620港元)、国海证券“买入”。[1][5]\n\n（数据延迟15分钟，来源多平台报价略异，总字数128）",
+      "error": null,
+      "citations": [
+        "https://www.laohu8.com/stock/09903",
+        "https://www.moomoo.com/hans/stock/09903-HK",
+        "https://www.futunn.com/stock/09903-HK",
+        "https://www.etnet.com.hk/www/tc/stocks/ipo-info.php?code=9903",
+        "http://www.aastocks.com/tc/stocks/analysis/stock-aafn/09903/0/hk-stock-news/1",
+        "https://www.futunn.com/hk/stock/09903-HK",
+        "https://quotes.sina.cn/hk/company/quotes/view/09903",
+        "https://wap.eastmoney.com/quote/stock/116.09903.html"
+      ]
+    },
+    {
+      "company": "海致科技",
+      "ticker": null,
+      "sector": "科技",
+      "success": true,
+      "content": "根据最新数据，**海致科技集团(02706.HK)**的表现如下：\n\n**股价与涨跌幅**\n截至5月4日收盘，股价为**47.78港元**，涨幅**+1.23%**，总市值191.33亿港元[4]。公司2月13日以27.06港元/股上市，首日大涨242%至92.6港元，随后经历70%的断崖式调整，近期开启反弹[1]。\n\n**近期动向**\n4月14日早盘股价一度大涨超12%，报64.70港元/股[1]。公司作为AI应用股，近期与MINIMAX-WP、智譜等AI概念股同步强势拉升[5]。\n\n**分析师评级**\n搜索结果未提供具体分析师评级信息。",
+      "error": null,
+      "citations": [
+        "https://www.moomoo.com/hans/stock/02706-HK",
+        "https://www.etnet.com.hk/www/tc/stocks/ipo-info.php?code=02706",
+        "https://www.chiefgroup.com.hk/hk/securities/hk-ipo-detail/dp?symbol=2706",
+        "https://www.futunn.com/hk/stock/02706-HK",
+        "http://www.aastocks.com/tc/stocks/analysis/stock-aafn/02706/0/hk-stock-news/1",
+        "https://quotes.sina.cn/hk/company/quotes/view/02706?tabsource=cjzwy",
+        "https://wap.eastmoney.com/quote/stock/116.02706.html"
+      ]
+    }
+  ]
+}
