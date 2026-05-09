@@ -1,0 +1,115 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T12:20:28.716544+08:00",
+  "market_overview": {
+    "market": {
+      "success": true,
+      "content": "# 2026年香港IPO市场动态分析\n\n感谢您的查询。根据可获得的信息，我需要做以下说明：\n\n## 📌 重要提示\n\n**数据时间限制**：我获取的搜索结果信息截至**2026年3月底**，无法提供今日（5月9日）的实时动态。当前时间距离最新数据已相隔约6周，市场情况可能已有重大变化。\n\n## 📊 已知的市场背景（截至3月底）\n\n### 1. **2026年前三个月成绩**\n- **递表企业**：至少203家（创历史新高）\n  - 主板：200家\n  - 创业板：3家\n- **募资成绩**：79天突破1000亿港元（创2018年改革以来最快纪录）\n- **首日表现**：MiniMax涨超400%，总市值达2656亿港元\n\n### 2. **近期上市的优质企业**\n- 海致科技集团（2月13日）\n- 乐欣户外（2月10日）\n- 澜起科技（2月9日）\n- MiniMax（1月9日）\n- 东鹏饮料（百亿级IPO）\n\n### 3. **主要行业分布**\n信息技术、医疗保健、新能源等领域企业密集递表\n\n## ⚠️ 获取最新信息的建议\n\n为了获得**今日（5月9日）**的准确动态，建议您：\n1. 访问港交所官方网站（www.hkex.com.hk）\n2. 查看港股上市公司公告\n3. 关注财经媒体实时报道（21财经、证券时报等）\n\n**如您有关于3月底前市场情况的具体问题，我乐意为您详细分析。**",
+      "citations": [
+        "https://www.21jingji.com/article/20260202/herald/0edfcae126970da2c1165f728ead0d76.html",
+        "https://www.9fzt.com/9fztgw_1_top/0c874e85b1a4d2120d7cd5d618213090.html",
+        "https://www.stcn.com/article/detail/3644842.html",
+        "http://www.news.cn/20251014/bc4a7ce00dfa42c4ae5611c2e9dc0200/c.html",
+        "https://www.163.com/dy/article/KS7SI4QK05568W0A.html",
+        "https://finance.sina.com.cn/wm/2026-03-27/doc-inhsmamy2165618.shtml",
+        "http://www.aastocks.com/tc/stocks/news/aafn-con/ZT1420291/popular-news/ZHITONG",
+        "https://finance.eastmoney.com/a/202602053642738533.html",
+        "https://cj.sina.cn/articles/view/5835524730/15bd30a7a020024l5c"
+      ],
+      "query": "请搜索今天（2026年05月09日）香港IPO市场的最新动态，包括：\n1. 今天新递表的公司（向港交所递交上市申请）\n2. 最近通过聆讯的公司\n3. 即将招股的新股（招股日期、价格区间、上市日期）\n4. 近期上市首日表现\n5. 港交所最新IPO政策或市场趋势\n请用中文回答，条理清晰。"
+    },
+    "new_filings_analysis": {
+      "success": true,
+      "content": "**今日（2026年5月9日）无新递表公司。**\n\n根据港交所官网及最新市场报道（如证券时报、HKEXnews），截至当前（周六凌晨），未见5月9日有公司递交IPO申请记录。港股IPO递表通常在工作日更新，周末数据暂无。若有最新动态，可后续查询HKEX官网“申请版本”栏目确认。",
+      "citations": [
+        "https://stcn.com/article/detail/1846434.html",
+        "https://www.stcn.com/article/detail/3377540.html",
+        "https://stcn.com/article/detail/3631479.html",
+        "https://finance.sina.com.cn/stock/relnews/cn/2026-01-05/doc-inhfhpmi7873944.shtml",
+        "https://www.hkex.com.hk/Services/Trading/Securities/Trading-News/Newly-Listed-Securities?sc_lang=zh-hk",
+        "https://www.hkex.com.hk/?sc_lang=zh-hk",
+        "https://www1.hkexnews.hk/listedco/listconews/index/lci.html?lang=zh",
+        "http://www.aastocks.com/tc/stocks/market/ipo/mainpage.aspx",
+        "https://www1.hkexnews.hk/app/appindex.html?lang=zh"
+      ],
+      "query": "请搜索今天（2026年05月09日）向港交所递交IPO申请的公司名单。\n对于今天新递表的每家公司，请逐一提供以下五个维度的简要分析：\n\n【公司名称】（赛道）\n📌 基本情况：主营业务、保荐人、预计集资规模\n💡 是否参与IPO认购：建议/不建议/观望，一句话理由\n📈 短期持有（首周）：预期表现判断\n🏦 长期持有：核心竞争力或主要风险\n🔗 港股通可能性：高/中/低，判断依据\n💰 现金流状况：盈利/亏损/烧钱速度简述\n\n如今天（2026年05月09日）无新递表公司，请明确说明「今日无新递表公司」。"
+    }
+  },
+  "company_updates": [
+    {
+      "company": "易控智驾",
+      "sector": "自动驾驶",
+      "status": "已通过聆讯",
+      "category_name": "A类 - 已通过聆讯/接近上市",
+      "has_update": true,
+      "success": true,
+      "content": "【易控智驾】\n动态：2025年9月12日，中国证监会要求补充说明业务经营模式、2025年6月增资外汇登记及外资股东缴款进展、下属公司保险代理业务等事项，请律师核查。该公司于2025年6月25日首次递表，后申请失效，再次递表（海通国际保荐）。截至2025年6月，已部署1400+辆活跃无人驾驶矿卡，2024年收入9.86亿元但尚未盈利。\n风险：证监会补充材料要求可能延缓上市进程，持续亏损及高研发投入导致现金流压力。\n关联：无。",
+      "error": null,
+      "citations": [
+        "https://finance.sina.com.cn/stock/hkstock/ggscyd/2025-09-12/doc-infqfwzf2743107.shtml",
+        "https://m.rccaijing.com/news-7343890787673503280.html",
+        "https://cs.com.cn/gppd/ggzx/202506/t20250627_6498372.html",
+        "https://www.aastocks.com/tc/stocks/analysis/stock-aafn-con/00388/AAFN/NOW.1492807/hk-stock-news",
+        "https://www.futunn.com/stock/810808-HK/news",
+        "https://www.usmart.hk/en/news-detail/7347437520768107157",
+        "https://www.futunn.com/stock/810808-HK",
+        "https://www.kgi.com.hk/zh-hk/products-overview/securities/ipo",
+        "http://mp.cnfol.com/8919/article/1767823978-142201735.html"
+      ]
+    }
+  ],
+  "listed_performance": [
+    {
+      "company": "精锋医疗",
+      "ticker": "02675.HK",
+      "sector": "医疗器械",
+      "success": true,
+      "content": "1. **最新股价**：截至2026-05-06，按盘价52港元，跌0.5（-0.952%），成交额1276万港元（万基证券数据）。52周范围48-73.7港元。\n\n2. **近期公告/新闻**：3月17日董事会会议通告；同日发布全球首个“单多孔一体化”机器人平台精锋MSP2000。\n\n3. **分析师评级**：星展首予“买入”评级，目标价68.1港元；广发证券“买入”评级。\n\n（数据来源多平台，最新交易日为5月6日，周末休市。）",
+      "error": null,
+      "citations": [
+        "https://www.itiger.com/hans/stock/02675",
+        "https://www.moomoo.com/hans/stock/02675-HK",
+        "http://www.mortonsec.hk/sc/market/quote-stock/code/02675",
+        "https://hk.investing.com/equities/shenzhen-edge-medical-co-ltd",
+        "https://www.sl886.com/stock/02675",
+        "http://quote.eastmoney.com/hk/02675.html",
+        "https://www.etnet.com.hk/www/sc/stocks/realtime/quote.php?code=2675"
+      ]
+    },
+    {
+      "company": "天数智芯",
+      "ticker": null,
+      "sector": "AI芯片",
+      "success": true,
+      "content": "**天数智芯 (09903.HK) 最新表现（截至5月8日收盘）：**\n\n1. **股价**：554港元，跌7.20%（高点596港元，低点531港元）；总市值约1409亿港元。5月6日曾创663港元新高，上市以来（1月8日发行价144.6港元）累计涨超3倍。\n\n2. **近期新闻**：5月6日股价暴涨19%后回落；AI芯片板块活跃，昆仑芯启动科创板IPO辅导。公司专注通用GPU及AI算力解决方案。\n\n3. **分析师评级**：搜索结果无明确评级信息。\n\n（数据来源于新浪、富途、Moomoo等，市场波动大，建议查实时行情。）",
+      "error": null,
+      "citations": [
+        "https://finance.sina.com.cn/wm/2026-05-06/doc-inhwycsf3397391.shtml",
+        "https://www.163.com/dy/article/KS93KQNK0552LIRB.html",
+        "https://www.laohu8.com/stock/09903",
+        "https://www.moomoo.com/hans/stock/09903-HK",
+        "https://www.futunn.com/stock/09903-HK",
+        "https://caifuhao.eastmoney.com/news/20260505154755820223780?from=guba&name=6ZW%2F5YWJ5Y2O6Iqv5ZCn&gubaurl=aHR0cHM6Ly9ndWJhLmVhc3Rtb25leS5jb20vbGlzdCw2ODgwNDguaHRtbA%3D%3D",
+        "https://www.futunn.com/hk/stock/09903-HK",
+        "https://quotes.sina.cn/hk/company/quotes/view/09903",
+        "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-con/03968/INFOCAST/IC4832425/hk-stock-news"
+      ]
+    },
+    {
+      "company": "海致科技",
+      "ticker": null,
+      "sector": "科技",
+      "success": true,
+      "content": "1. **最新股价**：截至5月8日收盘，62.10港元，涨+12.80港元（+25.96%），总市值约248.67亿港元。（数据延时，市盈率TTM -109.33，亏损状态）\n\n2. **近期新闻**：5月8日午后涨近30%，机构指6月有望入港股通；海通国际首覆盖“优于大市”，目标价90.7港元。近期AI Harness概念受捧，反弹强劲。\n\n3. **分析师评级**：平均目标价87.83港元（高90.96、低84.70），2位分析师建议买入。\n\n（来源：moomoo、富途、Investing.com等，信息截至5月8日）",
+      "error": null,
+      "citations": [
+        "https://www.moomoo.com/hans/stock/02706-HK",
+        "https://www.futunn.com/hk/stock/02706-HK",
+        "http://www.aastocks.com/tc/stocks/analysis/stock-aafn/02706/0/hk-stock-news/1",
+        "https://quotes.sina.cn/hk/company/quotes/view/02706?tabsource=cjzwy",
+        "https://hk.investing.com/equities/beijing-haizhi-tech-co-ltd",
+        "https://wap.eastmoney.com/quote/stock/116.02706.html"
+      ]
+    }
+  ]
+}
