@@ -1,6 +1,6 @@
 # 🇭🇰 香港IPO日报 - 2026-06-21
 
-> 报告生成时间：2026-06-21 09:50 HKT  |  数据来源：Perplexity Sonar API
+> 报告生成时间：2026-06-21 17:17 HKT  |  数据来源：Perplexity Sonar API
 
 ## 📊 市场概览
 
@@ -33,4 +33,4 @@
 - 新股认购存在中签率不确定性，认购前请了解相关风险
 
 ---
-*本报告由 [ipo-tracker-hk](https://github.com/quantumfisher001-netizen/ipo-tracker-hk) 自动生成 | 2026-06-21 09:50 HKT*
+*本报告由 [ipo-tracker-hk](https://github.com/quantumfisher001-netizen/ipo-tracker-hk) 自动生成 | 2026-06-21 17:17 HKT*
