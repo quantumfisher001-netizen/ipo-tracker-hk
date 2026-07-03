@@ -1,0 +1,46 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T09:34:21.041741+08:00",
+  "market_overview": {
+    "market": {
+      "success": false,
+      "error": "API 认证失败（401），请检查 PPLX_API_KEY",
+      "query": "请搜索今天（2026年07月03日）香港IPO市场的最新动态，包括：\n1. 今天新递表的公司（向港交所递交上市申请）\n2. 最近通过聆讯的公司\n3. 即将招股的新股（招股日期、价格区间、上市日期）\n4. 近期上市首日表现\n5. 港交所最新IPO政策或市场趋势\n请用中文回答，条理清晰。"
+    },
+    "new_filings_analysis": {
+      "success": false,
+      "error": "API 认证失败（401），请检查 PPLX_API_KEY",
+      "query": "请搜索今天（2026年07月03日）向港交所递交IPO申请的公司名单。\n对于今天新递表的每家公司，请逐一提供以下五个维度的简要分析：\n\n【公司名称】（赛道）\n📌 基本情况：主营业务、保荐人、预计集资规模\n💡 是否参与IPO认购：建议/不建议/观望，一句话理由\n📈 短期持有（首周）：预期表现判断\n🏦 长期持有：核心竞争力或主要风险\n🔗 港股通可能性：高/中/低，判断依据\n💰 现金流状况：盈利/亏损/烧钱速度简述\n\n如今天（2026年07月03日）无新递表公司，请明确说明「今日无新递表公司」。"
+    }
+  },
+  "company_updates": [],
+  "listed_performance": [
+    {
+      "company": "精锋医疗",
+      "ticker": "02675.HK",
+      "sector": "医疗器械",
+      "success": false,
+      "content": "",
+      "error": "API 认证失败（401），请检查 PPLX_API_KEY",
+      "citations": []
+    },
+    {
+      "company": "天数智芯",
+      "ticker": null,
+      "sector": "AI芯片",
+      "success": false,
+      "content": "",
+      "error": "API 认证失败（401），请检查 PPLX_API_KEY",
+      "citations": []
+    },
+    {
+      "company": "海致科技",
+      "ticker": null,
+      "sector": "科技",
+      "success": false,
+      "content": "",
+      "error": "API 认证失败（401），请检查 PPLX_API_KEY",
+      "citations": []
+    }
+  ]
+}
